@@ -1,0 +1,7013 @@
+[
+   {
+      "1":"Automotive"
+   },
+   {
+      "1.1":{
+         "Automotive":"Auto Body Styles"
+      }
+   },
+   {
+      "1.1.1":{
+         "Automotive":{
+            "Auto Body Styles":"Commercial Trucks"
+         }
+      }
+   },
+   {
+      "1.1.10":{
+         "Automotive":{
+            "Auto Body Styles":"Sedan"
+         }
+      }
+   },
+   {
+      "1.1.11":{
+         "Automotive":{
+            "Auto Body Styles":"Station Wagon"
+         }
+      }
+   },
+   {
+      "1.1.12":{
+         "Automotive":{
+            "Auto Body Styles":"SUV"
+         }
+      }
+   },
+   {
+      "1.1.13":{
+         "Automotive":{
+            "Auto Body Styles":"Van"
+         }
+      }
+   },
+   {
+      "1.1.2":{
+         "Automotive":{
+            "Auto Body Styles":"Convertible"
+         }
+      }
+   },
+   {
+      "1.1.3":{
+         "Automotive":{
+            "Auto Body Styles":"Coupe"
+         }
+      }
+   },
+   {
+      "1.1.4":{
+         "Automotive":{
+            "Auto Body Styles":"Crossover"
+         }
+      }
+   },
+   {
+      "1.1.5":{
+         "Automotive":{
+            "Auto Body Styles":"Hatchback"
+         }
+      }
+   },
+   {
+      "1.1.6":{
+         "Automotive":{
+            "Auto Body Styles":"Microcar"
+         }
+      }
+   },
+   {
+      "1.1.7":{
+         "Automotive":{
+            "Auto Body Styles":"Minivan"
+         }
+      }
+   },
+   {
+      "1.1.8":{
+         "Automotive":{
+            "Auto Body Styles":"Off-Road Vehicles"
+         }
+      }
+   },
+   {
+      "1.1.9":{
+         "Automotive":{
+            "Auto Body Styles":"Pickup Trucks"
+         }
+      }
+   },
+   {
+      "1.1":{
+         "Automotive":"Auto Type"
+      }
+   },
+   {
+      "1.10.1":{
+         "Automotive":{
+            "Auto Type":"Budget Cars"
+         }
+      }
+   },
+   {
+      "1.10.2":{
+         "Automotive":{
+            "Auto Type":"Certified Pre-Owned Cars"
+         }
+      }
+   },
+   {
+      "1.10.3":{
+         "Automotive":{
+            "Auto Type":"Classic Cars"
+         }
+      }
+   },
+   {
+      "1.10.4":{
+         "Automotive":{
+            "Auto Type":"Concept Cars"
+         }
+      }
+   },
+   {
+      "1.10.5":{
+         "Automotive":{
+            "Auto Type":"Driverless Cars"
+         }
+      }
+   },
+   {
+      "1.10.6":{
+         "Automotive":{
+            "Auto Type":"Green Vehicles"
+         }
+      }
+   },
+   {
+      "1.11":{
+         "Automotive":"Car Culture"
+      }
+   },
+   {
+      "1.12":{
+         "Automotive":"Dash Cam Videos"
+      }
+   },
+   {
+      "1.13":{
+         "Automotive":"Motorcycles"
+      }
+   },
+   {
+      "1.14":{
+         "Automotive":"Road-Side Assistance"
+      }
+   },
+   {
+      "1.15":{
+         "Automotive":"Scooters"
+      }
+   },
+   {
+      "1.2":{
+         "Automotive":"Auto Buying and Selling"
+      }
+   },
+   {
+      "1.3":{
+         "Automotive":"Auto Insurance"
+      }
+   },
+   {
+      "1.4":{
+         "Automotive":"Auto Parts"
+      }
+   },
+   {
+      "1.5":{
+         "Automotive":"Auto Recalls"
+      }
+   },
+   {
+      "1.6":{
+         "Automotive":"Auto Repair"
+      }
+   },
+   {
+      "1.7":{
+         "Automotive":"Auto Safety"
+      }
+   },
+   {
+      "1.8":{
+         "Automotive":"Auto Shows"
+      }
+   },
+   {
+      "1.9":{
+         "Automotive":"Auto Technology"
+      }
+   },
+   {
+      "1.9.1":{
+         "Automotive":{
+            "Auto Technology":"Auto Infotainment Technologies"
+         }
+      }
+   },
+   {
+      "1.9.2":{
+         "Automotive":{
+            "Auto Technology":"Auto Navigation Systems"
+         }
+      }
+   },
+   {
+      "1.9.3":{
+         "Automotive":{
+            "Auto Technology":"Auto Safety Technologies"
+         }
+      }
+   },
+   {
+      "2":"Books and Literature"
+   },
+   {
+      "2.1":{
+         "Books and Literature":"Art and Photography Books"
+      }
+   },
+   {
+      "2.2":{
+         "Books and Literature":"Biographies"
+      }
+   },
+   {
+      "2.3":{
+         "Books and Literature":"Children's Literature"
+      }
+   },
+   {
+      "2.4":{
+         "Books and Literature":"Comics and Graphic Novels"
+      }
+   },
+   {
+      "2.5":{
+         "Books and Literature":"Cookbooks"
+      }
+   },
+   {
+      "2.6":{
+         "Books and Literature":"Fiction"
+      }
+   },
+   {
+      "2.7":{
+         "Books and Literature":"Poetry"
+      }
+   },
+   {
+      "2.8":{
+         "Books and Literature":"Travel Books"
+      }
+   },
+   {
+      "2.9":{
+         "Books and Literature":"Young Adult Literature"
+      }
+   },
+   {
+      "3":"Business and Finance"
+   },
+   {
+      "3.1":{
+         "Business and Finance":"Business"
+      }
+   },
+   {
+      "3.1.1":{
+         "Business and Finance":{
+            "Business":"Business Accounting & Finance"
+         }
+      }
+   },
+   {
+      "3.1.10":{
+         "Business and Finance":{
+            "Business":"Human Resources"
+         }
+      }
+   },
+   {
+      "3.1.11":{
+         "Business and Finance":{
+            "Business":"Large Business"
+         }
+      }
+   },
+   {
+      "3.1.12":{
+         "Business and Finance":{
+            "Business":"Logistics"
+         }
+      }
+   },
+   {
+      "3.1.13":{
+         "Business and Finance":{
+            "Business":"Marketing and Advertising"
+         }
+      }
+   },
+   {
+      "3.1.14":{
+         "Business and Finance":{
+            "Business":"Sales"
+         }
+      }
+   },
+   {
+      "3.1.15":{
+         "Business and Finance":{
+            "Business":"Small and Medium-sized Business"
+         }
+      }
+   },
+   {
+      "3.1.16":{
+         "Business and Finance":{
+            "Business":"Startups"
+         }
+      }
+   },
+   {
+      "3.1.2":{
+         "Business and Finance":{
+            "Business":"Business Administration"
+         }
+      }
+   },
+   {
+      "3.1.3":{
+         "Business and Finance":{
+            "Business":"Business Banking & Finance"
+         }
+      }
+   },
+   {
+      "3.1.3.1":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Angel Investment"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.2":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Bankruptcy"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.3":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Business Loans"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.4":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Debt Factoring & Invoice Discounting"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.5":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Mergers and Acquisitions"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.6":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Private Equity"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.7":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Sale & Lease Back"
+            }
+         }
+      }
+   },
+   {
+      "3.1.3.8":{
+         "Business and Finance":{
+            "Business":{
+               "Business Banking & Finance":"Venture Capital"
+            }
+         }
+      }
+   },
+   {
+      "3.1.4":{
+         "Business and Finance":{
+            "Business":"Business I.T."
+         }
+      }
+   },
+   {
+      "3.1.5":{
+         "Business and Finance":{
+            "Business":"Business Operations"
+         }
+      }
+   },
+   {
+      "3.1.6":{
+         "Business and Finance":{
+            "Business":"Consumer Issues"
+         }
+      }
+   },
+   {
+      "3.1.6.1":{
+         "Business and Finance":{
+            "Business":{
+               "Consumer Issues":"Recalls"
+            }
+         }
+      }
+   },
+   {
+      "3.1.7":{
+         "Business and Finance":{
+            "Business":"Executive Leadership & Management"
+         }
+      }
+   },
+   {
+      "3.1.8":{
+         "Business and Finance":{
+            "Business":"Government Business"
+         }
+      }
+   },
+   {
+      "3.1.9":{
+         "Business and Finance":{
+            "Business":"Green Solutions"
+         }
+      }
+   },
+   {
+      "3.2":{
+         "Business and Finance":"Economy"
+      }
+   },
+   {
+      "3.2.1":{
+         "Business and Finance":{
+            "Economy":"Commodities"
+         }
+      }
+   },
+   {
+      "3.2.2":{
+         "Business and Finance":{
+            "Economy":"Currencies"
+         }
+      }
+   },
+   {
+      "3.2.3":{
+         "Business and Finance":{
+            "Economy":"Financial Crisis"
+         }
+      }
+   },
+   {
+      "3.2.4":{
+         "Business and Finance":{
+            "Economy":"Financial Reform"
+         }
+      }
+   },
+   {
+      "3.2.5":{
+         "Business and Finance":{
+            "Economy":"Financial Regulation"
+         }
+      }
+   },
+   {
+      "3.2.6":{
+         "Business and Finance":{
+            "Economy":"Gasoline Prices"
+         }
+      }
+   },
+   {
+      "3.2.7":{
+         "Business and Finance":{
+            "Economy":"Housing Market"
+         }
+      }
+   },
+   {
+      "3.2.8":{
+         "Business and Finance":{
+            "Economy":"Interest Rates"
+         }
+      }
+   },
+   {
+      "3.2.9":{
+         "Business and Finance":{
+            "Economy":"Job Market"
+         }
+      }
+   },
+   {
+      "3.3":{
+         "Business and Finance":"Industries"
+      }
+   },
+   {
+      "3.3.1":{
+         "Business and Finance":{
+            "Industries":"Advertising Industry"
+         }
+      }
+   },
+   {
+      "3.3.10":{
+         "Business and Finance":{
+            "Industries":"Education industry"
+         }
+      }
+   },
+   {
+      "3.3.11":{
+         "Business and Finance":{
+            "Industries":"Entertainment Industry"
+         }
+      }
+   },
+   {
+      "3.3.12":{
+         "Business and Finance":{
+            "Industries":"Environmental Services Industry"
+         }
+      }
+   },
+   {
+      "3.3.13":{
+         "Business and Finance":{
+            "Industries":"Financial Industry"
+         }
+      }
+   },
+   {
+      "3.3.14":{
+         "Business and Finance":{
+            "Industries":"Food Industry"
+         }
+      }
+   },
+   {
+      "3.3.15":{
+         "Business and Finance":{
+            "Industries":"Healthcare Industry"
+         }
+      }
+   },
+   {
+      "3.3.16":{
+         "Business and Finance":{
+            "Industries":"Hospitality Industry"
+         }
+      }
+   },
+   {
+      "3.3.17":{
+         "Business and Finance":{
+            "Industries":"Information Services Industry"
+         }
+      }
+   },
+   {
+      "3.3.18":{
+         "Business and Finance":{
+            "Industries":"Legal Services Industry"
+         }
+      }
+   },
+   {
+      "3.3.19":{
+         "Business and Finance":{
+            "Industries":"Logistics and Transportation Industry"
+         }
+      }
+   },
+   {
+      "3.3.2":{
+         "Business and Finance":{
+            "Industries":"Agriculture"
+         }
+      }
+   },
+   {
+      "3.3.20":{
+         "Business and Finance":{
+            "Industries":"Management Consulting Industry"
+         }
+      }
+   },
+   {
+      "3.3.21":{
+         "Business and Finance":{
+            "Industries":"Manufacturing Industry"
+         }
+      }
+   },
+   {
+      "3.3.22":{
+         "Business and Finance":{
+            "Industries":"Mechanical and Industrial Engineering Industry"
+         }
+      }
+   },
+   {
+      "3.3.23":{
+         "Business and Finance":{
+            "Industries":"Media Industry"
+         }
+      }
+   },
+   {
+      "3.3.24":{
+         "Business and Finance":{
+            "Industries":"Metals Industry"
+         }
+      }
+   },
+   {
+      "3.3.25":{
+         "Business and Finance":{
+            "Industries":"Non-Profit Organizations"
+         }
+      }
+   },
+   {
+      "3.3.26":{
+         "Business and Finance":{
+            "Industries":"Pharmaceutical Industry"
+         }
+      }
+   },
+   {
+      "3.3.27":{
+         "Business and Finance":{
+            "Industries":"Power and Energy Industry"
+         }
+      }
+   },
+   {
+      "3.3.28":{
+         "Business and Finance":{
+            "Industries":"Publishing Industry"
+         }
+      }
+   },
+   {
+      "3.3.29":{
+         "Business and Finance":{
+            "Industries":"Real Estate Industry"
+         }
+      }
+   },
+   {
+      "3.3.3":{
+         "Business and Finance":{
+            "Industries":"Apparel Industry"
+         }
+      }
+   },
+   {
+      "3.3.30":{
+         "Business and Finance":{
+            "Industries":"Retail Industry"
+         }
+      }
+   },
+   {
+      "3.3.31":{
+         "Business and Finance":{
+            "Industries":"Technology Industry"
+         }
+      }
+   },
+   {
+      "3.3.32":{
+         "Business and Finance":{
+            "Industries":"Telecommunications Industry"
+         }
+      }
+   },
+   {
+      "3.3.4":{
+         "Business and Finance":{
+            "Industries":"Automotive Industry"
+         }
+      }
+   },
+   {
+      "3.3.5":{
+         "Business and Finance":{
+            "Industries":"Aviation Industry"
+         }
+      }
+   },
+   {
+      "3.3.6":{
+         "Business and Finance":{
+            "Industries":"Biotech and Biomedical Industry"
+         }
+      }
+   },
+   {
+      "3.3.7":{
+         "Business and Finance":{
+            "Industries":"Civil Engineering Industry"
+         }
+      }
+   },
+   {
+      "3.3.8":{
+         "Business and Finance":{
+            "Industries":"Construction Industry"
+         }
+      }
+   },
+   {
+      "3.3.9":{
+         "Business and Finance":{
+            "Industries":"Defense Industry"
+         }
+      }
+   },
+   {
+      "4":"Careers"
+   },
+   {
+      "4.1":{
+         "Careers":"Apprenticeships"
+      }
+   },
+   {
+      "4.2":{
+         "Careers":"Career Advice"
+      }
+   },
+   {
+      "4.3":{
+         "Careers":"Career Planning"
+      }
+   },
+   {
+      "4.4":{
+         "Careers":"Job Search"
+      }
+   },
+   {
+      "4.4.1":{
+         "Careers":{
+            "Job Search":"Job Fairs"
+         }
+      }
+   },
+   {
+      "4.4.2":{
+         "Careers":{
+            "Job Search":"Resume Writing and Advice"
+         }
+      }
+   },
+   {
+      "4.5":{
+         "Careers":"Telecommuting"
+      }
+   },
+   {
+      "4.6":{
+         "Careers":"Vocational Training"
+      }
+   },
+   {
+      "5":"Education"
+   },
+   {
+      "5.1":{
+         "Education":"Adult Education"
+      }
+   },
+   {
+      "5.1":{
+         "Education":"Private School"
+      }
+   },
+   {
+      "5.11":{
+         "Education":"Secondary Education"
+      }
+   },
+   {
+      "5.12":{
+         "Education":"Special Education"
+      }
+   },
+   {
+      "5.2":{
+         "Education":"College Education"
+      }
+   },
+   {
+      "5.2.1":{
+         "Education":{
+            "College Education":"College Planning"
+         }
+      }
+   },
+   {
+      "5.2.2":{
+         "Education":{
+            "College Education":"Postgraduate Education"
+         }
+      }
+   },
+   {
+      "5.2.2.1":{
+         "Education":{
+            "College Education":{
+               "Postgraduate Education":"Professional School"
+            }
+         }
+      }
+   },
+   {
+      "5.2.3":{
+         "Education":{
+            "College Education":"Undergraduate Education"
+         }
+      }
+   },
+   {
+      "5.3":{
+         "Education":"Early Childhood Education"
+      }
+   },
+   {
+      "5.4":{
+         "Education":"Educational Assessment"
+      }
+   },
+   {
+      "5.4.1":{
+         "Education":{
+            "Educational Assessment":"Standardized Testing"
+         }
+      }
+   },
+   {
+      "5.5":{
+         "Education":"Homeschooling"
+      }
+   },
+   {
+      "5.6":{
+         "Education":"Homework and Study"
+      }
+   },
+   {
+      "5.7":{
+         "Education":"Language Learning"
+      }
+   },
+   {
+      "5.8":{
+         "Education":"Online Education"
+      }
+   },
+   {
+      "5.9":{
+         "Education":"Primary Education"
+      }
+   },
+   {
+      "6":"Events and Attractions"
+   },
+   {
+      "6.1":{
+         "Events and Attractions":"Amusement and Theme Parks"
+      }
+   },
+   {
+      "6.1":{
+         "Events and Attractions":"Fashion Events"
+      }
+   },
+   {
+      "6.11":{
+         "Events and Attractions":"Historic Site and Landmark Tours"
+      }
+   },
+   {
+      "6.12":{
+         "Events and Attractions":"Malls & Shopping Centers"
+      }
+   },
+   {
+      "6.13":{
+         "Events and Attractions":"Museums & Galleries"
+      }
+   },
+   {
+      "6.14":{
+         "Events and Attractions":"Musicals"
+      }
+   },
+   {
+      "6.15":{
+         "Events and Attractions":"National & Civic Holidays"
+      }
+   },
+   {
+      "6.16":{
+         "Events and Attractions":"Nightclubs"
+      }
+   },
+   {
+      "6.17":{
+         "Events and Attractions":"Outdoor Activities"
+      }
+   },
+   {
+      "6.18":{
+         "Events and Attractions":"Parks & Nature"
+      }
+   },
+   {
+      "6.19":{
+         "Events and Attractions":"Party Supplies and Decorations"
+      }
+   },
+   {
+      "6.2":{
+         "Events and Attractions":"Awards Shows"
+      }
+   },
+   {
+      "6.2":{
+         "Events and Attractions":"Personal Celebrations & Life Events"
+      }
+   },
+   {
+      "6.20.1":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Anniversary"
+         }
+      }
+   },
+   {
+      "6.20.10":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Wedding"
+         }
+      }
+   },
+   {
+      "6.20.2":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Baby Shower"
+         }
+      }
+   },
+   {
+      "6.20.3":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Bachelor Party"
+         }
+      }
+   },
+   {
+      "6.20.4":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Bachelorette Party"
+         }
+      }
+   },
+   {
+      "6.20.5":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Birth"
+         }
+      }
+   },
+   {
+      "6.20.6":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Birthday"
+         }
+      }
+   },
+   {
+      "6.20.7":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Funeral"
+         }
+      }
+   },
+   {
+      "6.20.8":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Graduation"
+         }
+      }
+   },
+   {
+      "6.20.9":{
+         "Events and Attractions":{
+            "Personal Celebrations & Life Events":"Prom"
+         }
+      }
+   },
+   {
+      "6.21":{
+         "Events and Attractions":"Political Event"
+      }
+   },
+   {
+      "6.22":{
+         "Events and Attractions":"Religious Events"
+      }
+   },
+   {
+      "6.23":{
+         "Events and Attractions":"Sporting Events"
+      }
+   },
+   {
+      "6.24":{
+         "Events and Attractions":"Theater Venues and Events"
+      }
+   },
+   {
+      "6.25":{
+         "Events and Attractions":"Zoos & Aquariums"
+      }
+   },
+   {
+      "6.3":{
+         "Events and Attractions":"Bars & Restaurants"
+      }
+   },
+   {
+      "6.4":{
+         "Events and Attractions":"Business Expos & Conferences"
+      }
+   },
+   {
+      "6.5":{
+         "Events and Attractions":"Casinos & Gambling"
+      }
+   },
+   {
+      "6.6":{
+         "Events and Attractions":"Cinemas and Events"
+      }
+   },
+   {
+      "6.7":{
+         "Events and Attractions":"Comedy Events"
+      }
+   },
+   {
+      "6.8":{
+         "Events and Attractions":"Concerts & Music Events"
+      }
+   },
+   {
+      "6.9":{
+         "Events and Attractions":"Fan Conventions"
+      }
+   },
+   {
+      "7":"Family and Relationships"
+   },
+   {
+      "7.1":{
+         "Family and Relationships":"Bereavement"
+      }
+   },
+   {
+      "7.2":{
+         "Family and Relationships":"Dating"
+      }
+   },
+   {
+      "7.3":{
+         "Family and Relationships":"Divorce"
+      }
+   },
+   {
+      "7.4":{
+         "Family and Relationships":"Eldercare"
+      }
+   },
+   {
+      "7.5":{
+         "Family and Relationships":"Marriage and Civil Unions"
+      }
+   },
+   {
+      "7.6":{
+         "Family and Relationships":"Parenting"
+      }
+   },
+   {
+      "7.6.1":{
+         "Family and Relationships":{
+            "Parenting":"Adoption and Fostering"
+         }
+      }
+   },
+   {
+      "7.6.2":{
+         "Family and Relationships":{
+            "Parenting":"Daycare and Pre-School"
+         }
+      }
+   },
+   {
+      "7.6.3":{
+         "Family and Relationships":{
+            "Parenting":"Internet Safety"
+         }
+      }
+   },
+   {
+      "7.6.4":{
+         "Family and Relationships":{
+            "Parenting":"Parenting Babies and Toddlers"
+         }
+      }
+   },
+   {
+      "7.6.5":{
+         "Family and Relationships":{
+            "Parenting":"Parenting Children Aged 4-11"
+         }
+      }
+   },
+   {
+      "7.6.6":{
+         "Family and Relationships":{
+            "Parenting":"Parenting Teens"
+         }
+      }
+   },
+   {
+      "7.6.7":{
+         "Family and Relationships":{
+            "Parenting":"Pregnancy"
+         }
+      }
+   },
+   {
+      "7.6.8":{
+         "Family and Relationships":{
+            "Parenting":"Special Needs Kids"
+         }
+      }
+   },
+   {
+      "7.7":{
+         "Family and Relationships":"Single Life"
+      }
+   },
+   {
+      "8":"Fine Art"
+   },
+   {
+      "8.1":{
+         "Fine Art":"Costume"
+      }
+   },
+   {
+      "8.2":{
+         "Fine Art":"Dance"
+      }
+   },
+   {
+      "8.3":{
+         "Fine Art":"Design"
+      }
+   },
+   {
+      "8.4":{
+         "Fine Art":"Digital Arts"
+      }
+   },
+   {
+      "8.5":{
+         "Fine Art":"Fine Art Photography"
+      }
+   },
+   {
+      "8.6":{
+         "Fine Art":"Fine Art Photography"
+      }
+   },
+   {
+      "8.7":{
+         "Fine Art":"Modern Art"
+      }
+   },
+   {
+      "8.8":{
+         "Fine Art":"Opera"
+      }
+   },
+   {
+      "8.9":{
+         "Fine Art":"Theater"
+      }
+   },
+   {
+      "9":"Food & Drink"
+   },
+   {
+      "9.1":{
+         "Food & Drink":"Alcoholic Beverages"
+      }
+   },
+   {
+      "9.1":{
+         "Food & Drink":"Vegan Diets"
+      }
+   },
+   {
+      "9.11":{
+         "Food & Drink":"Vegetarian Diets"
+      }
+   },
+   {
+      "9.12":{
+         "Food & Drink":"World Cuisines"
+      }
+   },
+   {
+      "9.2":{
+         "Food & Drink":"Barbecues and Grilling"
+      }
+   },
+   {
+      "9.3":{
+         "Food & Drink":"Cooking"
+      }
+   },
+   {
+      "9.4":{
+         "Food & Drink":"Desserts and Baking"
+      }
+   },
+   {
+      "9.5":{
+         "Food & Drink":"Dining Out"
+      }
+   },
+   {
+      "9.6":{
+         "Food & Drink":"Food Allergies"
+      }
+   },
+   {
+      "9.7":{
+         "Food & Drink":"Food Movements"
+      }
+   },
+   {
+      "9.8":{
+         "Food & Drink":"Healthy Cooking and Eating"
+      }
+   },
+   {
+      "9.9":{
+         "Food & Drink":"Non-Alcoholic Beverages"
+      }
+   },
+   {
+      "10":"Healthy Living"
+   },
+   {
+      "10.1":{
+         "Healthy Living":"Children's Health"
+      }
+   },
+   {
+      "10.2":{
+         "Healthy Living":"Fitness and Exercise"
+      }
+   },
+   {
+      "10.2.1":{
+         "Healthy Living":{
+            "Fitness and Exercise":"Participant Sports"
+         }
+      }
+   },
+   {
+      "10.2.2":{
+         "Healthy Living":{
+            "Fitness and Exercise":"Running and Jogging"
+         }
+      }
+   },
+   {
+      "10.3":{
+         "Healthy Living":"Men's Health"
+      }
+   },
+   {
+      "10.4":{
+         "Healthy Living":"Nutrition"
+      }
+   },
+   {
+      "10.5":{
+         "Healthy Living":"Senior Health"
+      }
+   },
+   {
+      "10.6":{
+         "Healthy Living":"Weight Loss"
+      }
+   },
+   {
+      "10.7":{
+         "Healthy Living":"Wellness"
+      }
+   },
+   {
+      "10.7.1":{
+         "Healthy Living":{
+            "Wellness":"Alternative Medicine"
+         }
+      }
+   },
+   {
+      "10.7.2":{
+         "Healthy Living":{
+            "Wellness":"Physical Therapy"
+         }
+      }
+   },
+   {
+      "10.7.3":{
+         "Healthy Living":{
+            "Wellness":"Smoking Cessation"
+         }
+      }
+   },
+   {
+      "10.8":{
+         "Healthy Living":"Women's Health"
+      }
+   },
+   {
+      "11":"Hobbies & Interests"
+   },
+   {
+      "11.1":{
+         "Hobbies & Interests":"Antiquing and Antiques"
+      }
+   },
+   {
+      "11.1":{
+         "Hobbies & Interests":"Magic and Illusion"
+      }
+   },
+   {
+      "11.11":{
+         "Hobbies & Interests":"Model Toys"
+      }
+   },
+   {
+      "11.12":{
+         "Hobbies & Interests":"Musical Instruments"
+      }
+   },
+   {
+      "11.13":{
+         "Hobbies & Interests":"Paranormal Phenomena"
+      }
+   },
+   {
+      "11.14":{
+         "Hobbies & Interests":"Radio Control"
+      }
+   },
+   {
+      "11.15":{
+         "Hobbies & Interests":"Sci-fi and Fantasy"
+      }
+   },
+   {
+      "11.16":{
+         "Hobbies & Interests":"Workshops and Classes"
+      }
+   },
+   {
+      "11.2":{
+         "Hobbies & Interests":"Arts and Crafts"
+      }
+   },
+   {
+      "11.2.1":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Beadwork"
+         }
+      }
+   },
+   {
+      "11.2.2":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Candle and Soap Making"
+         }
+      }
+   },
+   {
+      "11.2.3":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Drawing and Sketching"
+         }
+      }
+   },
+   {
+      "11.2.4":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Jewelry Making"
+         }
+      }
+   },
+   {
+      "11.2.5":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Needlework"
+         }
+      }
+   },
+   {
+      "11.2.6":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Painting"
+         }
+      }
+   },
+   {
+      "11.2.7":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Photography"
+         }
+      }
+   },
+   {
+      "11.2.8":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Scrapbooking"
+         }
+      }
+   },
+   {
+      "11.2.9":{
+         "Hobbies & Interests":{
+            "Arts and Crafts":"Woodworking"
+         }
+      }
+   },
+   {
+      "11.3":{
+         "Hobbies & Interests":"Beekeeping"
+      }
+   },
+   {
+      "11.4":{
+         "Hobbies & Interests":"Birdwatching"
+      }
+   },
+   {
+      "11.5":{
+         "Hobbies & Interests":"Cigars"
+      }
+   },
+   {
+      "11.6":{
+         "Hobbies & Interests":"Collecting"
+      }
+   },
+   {
+      "11.6.1":{
+         "Hobbies & Interests":{
+            "Collecting":"Comic Books"
+         }
+      }
+   },
+   {
+      "11.6.2":{
+         "Hobbies & Interests":{
+            "Collecting":"Stamps and Coins"
+         }
+      }
+   },
+   {
+      "11.7":{
+         "Hobbies & Interests":"Content Production"
+      }
+   },
+   {
+      "11.7.1":{
+         "Hobbies & Interests":{
+            "Content Production":"Audio Production"
+         }
+      }
+   },
+   {
+      "11.7.2":{
+         "Hobbies & Interests":{
+            "Content Production":"Freelance Writing"
+         }
+      }
+   },
+   {
+      "11.7.3":{
+         "Hobbies & Interests":{
+            "Content Production":"Screenwriting"
+         }
+      }
+   },
+   {
+      "11.7.4":{
+         "Hobbies & Interests":{
+            "Content Production":"Video Production"
+         }
+      }
+   },
+   {
+      "11.8":{
+         "Hobbies & Interests":"Games and Puzzles"
+      }
+   },
+   {
+      "11.8.1":{
+         "Hobbies & Interests":{
+            "Games and Puzzles":"Board Games and Puzzles"
+         }
+      }
+   },
+   {
+      "11.8.2":{
+         "Hobbies & Interests":{
+            "Games and Puzzles":"Card Games"
+         }
+      }
+   },
+   {
+      "11.8.3":{
+         "Hobbies & Interests":{
+            "Games and Puzzles":"Roleplaying Games"
+         }
+      }
+   },
+   {
+      "11.9":{
+         "Hobbies & Interests":"Genealogy and Ancestry"
+      }
+   },
+   {
+      "12":"Home & Garden"
+   },
+   {
+      "12.1":{
+         "Home & Garden":"Gardening"
+      }
+   },
+   {
+      "12.1":{
+         "Home & Garden":"Remodeling & Construction"
+      }
+   },
+   {
+      "12.11":{
+         "Home & Garden":"Smart Home"
+      }
+   },
+   {
+      "12.2":{
+         "Home & Garden":"Home Appliances"
+      }
+   },
+   {
+      "12.3":{
+         "Home & Garden":"Home Entertaining"
+      }
+   },
+   {
+      "12.4":{
+         "Home & Garden":"Home Improvement"
+      }
+   },
+   {
+      "12.5":{
+         "Home & Garden":"Home Security"
+      }
+   },
+   {
+      "12.6":{
+         "Home & Garden":"Indoor Environmental Quality"
+      }
+   },
+   {
+      "12.7":{
+         "Home & Garden":"Interior Decorating"
+      }
+   },
+   {
+      "12.8":{
+         "Home & Garden":"Landscaping"
+      }
+   },
+   {
+      "12.9":{
+         "Home & Garden":"Outdoor Decorating"
+      }
+   },
+   {
+      "13":"Medical Health"
+   },
+   {
+      "13.1":{
+         "Medical Health":"Diseases and Conditions"
+      }
+   },
+   {
+      "13.1.1":{
+         "Medical Health":{
+            "Diseases and Conditions":"Allergies"
+         }
+      }
+   },
+   {
+      "13.1.10":{
+         "Medical Health":{
+            "Diseases and Conditions":"Ear, Nose and Throat Conditions"
+         }
+      }
+   },
+   {
+      "13.1.11":{
+         "Medical Health":{
+            "Diseases and Conditions":"Endocrine and Metabolic Diseases"
+         }
+      }
+   },
+   {
+      "13.1.11.1":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Endocrine and Metabolic Diseases":"Hormonal Disorders"
+            }
+         }
+      }
+   },
+   {
+      "13.1.11.2":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Endocrine and Metabolic Diseases":"Menopause"
+            }
+         }
+      }
+   },
+   {
+      "13.1.11.3":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Endocrine and Metabolic Diseases":"Thyroid Disorders"
+            }
+         }
+      }
+   },
+   {
+      "13.1.12":{
+         "Medical Health":{
+            "Diseases and Conditions":"Eye and Vision Conditions"
+         }
+      }
+   },
+   {
+      "13.1.13":{
+         "Medical Health":{
+            "Diseases and Conditions":"Foot Health"
+         }
+      }
+   },
+   {
+      "13.1.14":{
+         "Medical Health":{
+            "Diseases and Conditions":"Heart and Cardiovascular Diseases"
+         }
+      }
+   },
+   {
+      "13.1.15":{
+         "Medical Health":{
+            "Diseases and Conditions":"Infectious Diseases"
+         }
+      }
+   },
+   {
+      "13.1.16":{
+         "Medical Health":{
+            "Diseases and Conditions":"Injuries"
+         }
+      }
+   },
+   {
+      "13.1.16.1":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Injuries":"First Aid"
+            }
+         }
+      }
+   },
+   {
+      "13.1.17":{
+         "Medical Health":{
+            "Diseases and Conditions":"Lung and Respiratory Health"
+         }
+      }
+   },
+   {
+      "13.1.18":{
+         "Medical Health":{
+            "Diseases and Conditions":"Mental Health"
+         }
+      }
+   },
+   {
+      "13.1.19":{
+         "Medical Health":{
+            "Diseases and Conditions":"Reproductive Health"
+         }
+      }
+   },
+   {
+      "13.1.19.1":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Reproductive Health":"Birth Control"
+            }
+         }
+      }
+   },
+   {
+      "13.1.19.2":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Reproductive Health":"Infertility"
+            }
+         }
+      }
+   },
+   {
+      "13.1.19.3":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Reproductive Health":"Pregnancy"
+            }
+         }
+      }
+   },
+   {
+      "13.1.2":{
+         "Medical Health":{
+            "Diseases and Conditions":"Blood Disorders"
+         }
+      }
+   },
+   {
+      "13.1.20":{
+         "Medical Health":{
+            "Diseases and Conditions":"Sexual Health"
+         }
+      }
+   },
+   {
+      "13.1.20.1":{
+         "Medical Health":{
+            "Diseases and Conditions":{
+               "Sexual Health":"Sexual Conditions"
+            }
+         }
+      }
+   },
+   {
+      "13.1.21":{
+         "Medical Health":{
+            "Diseases and Conditions":"Skin and Dermatology"
+         }
+      }
+   },
+   {
+      "13.1.22":{
+         "Medical Health":{
+            "Diseases and Conditions":"Sleep Disorders"
+         }
+      }
+   },
+   {
+      "13.1.23":{
+         "Medical Health":{
+            "Diseases and Conditions":"Substance Abuse"
+         }
+      }
+   },
+   {
+      "13.1.3":{
+         "Medical Health":{
+            "Diseases and Conditions":"Bone and Joint Conditions"
+         }
+      }
+   },
+   {
+      "13.1.4":{
+         "Medical Health":{
+            "Diseases and Conditions":"Brain and Nervous System Disorders"
+         }
+      }
+   },
+   {
+      "13.1.5":{
+         "Medical Health":{
+            "Diseases and Conditions":"Cancer"
+         }
+      }
+   },
+   {
+      "13.1.6":{
+         "Medical Health":{
+            "Diseases and Conditions":"Cold and Flu"
+         }
+      }
+   },
+   {
+      "13.1.7":{
+         "Medical Health":{
+            "Diseases and Conditions":"Dental Health"
+         }
+      }
+   },
+   {
+      "13.1.8":{
+         "Medical Health":{
+            "Diseases and Conditions":"Diabetes"
+         }
+      }
+   },
+   {
+      "13.1.9":{
+         "Medical Health":{
+            "Diseases and Conditions":"Digestive Disorders"
+         }
+      }
+   },
+   {
+      "13.2":{
+         "Medical Health":"Medical Tests"
+      }
+   },
+   {
+      "13.3":{
+         "Medical Health":"Pharmaceutical Drugs"
+      }
+   },
+   {
+      "13.4":{
+         "Medical Health":"Surgery"
+      }
+   },
+   {
+      "13.5":{
+         "Medical Health":"Vaccines"
+      }
+   },
+   {
+      "14":"Movies"
+   },
+   {
+      "14.1":{
+         "Movies":"Action and Adventure Movies"
+      }
+   },
+   {
+      "14.1":{
+         "Movies":"Romance Movies"
+      }
+   },
+   {
+      "14.11":{
+         "Movies":"Science Fiction Movies"
+      }
+   },
+   {
+      "14.12":{
+         "Movies":"Special Interest Movies"
+      }
+   },
+   {
+      "14.2":{
+         "Movies":"Animation Movies"
+      }
+   },
+   {
+      "14.3":{
+         "Movies":"Comedy Movies"
+      }
+   },
+   {
+      "14.4":{
+         "Movies":"Crime and Mystery Movies"
+      }
+   },
+   {
+      "14.5":{
+         "Movies":"Documentary Movies"
+      }
+   },
+   {
+      "14.6":{
+         "Movies":"Drama Movies"
+      }
+   },
+   {
+      "14.7":{
+         "Movies":"Family and Children Movies"
+      }
+   },
+   {
+      "14.8":{
+         "Movies":"Fantasy Movies"
+      }
+   },
+   {
+      "14.9":{
+         "Movies":"Horror Movies"
+      }
+   },
+   {
+      "15":"Music and Audio"
+   },
+   {
+      "15.1":{
+         "Music and Audio":"Adult Contemporary Music"
+      }
+   },
+   {
+      "15.1":{
+         "Music and Audio":"Comedy Podcasts"
+      }
+   },
+   {
+      "15.11":{
+         "Music and Audio":"Comedy Radio"
+      }
+   },
+   {
+      "15.12":{
+         "Music and Audio":"Contemporary Hits"
+      }
+   },
+   {
+      "15.13":{
+         "Music and Audio":"Country Music"
+      }
+   },
+   {
+      "15.14":{
+         "Music and Audio":"Dance and Electronic Music"
+      }
+   },
+   {
+      "15.15":{
+         "Music and Audio":"Education Podcasts"
+      }
+   },
+   {
+      "15.16":{
+         "Music and Audio":"Folk Music"
+      }
+   },
+   {
+      "15.17":{
+         "Music and Audio":"Games & Hobbies Podcasts"
+      }
+   },
+   {
+      "15.18":{
+         "Music and Audio":"Gospel Music"
+      }
+   },
+   {
+      "15.19":{
+         "Music and Audio":"Health Podcasts"
+      }
+   },
+   {
+      "15.2":{
+         "Music and Audio":"Arts Podcasts"
+      }
+   },
+   {
+      "15.2":{
+         "Music and Audio":"Hip Hop Music"
+      }
+   },
+   {
+      "15.21":{
+         "Music and Audio":"Inspirational Music"
+      }
+   },
+   {
+      "15.22":{
+         "Music and Audio":"International Music"
+      }
+   },
+   {
+      "15.23":{
+         "Music and Audio":"Jazz"
+      }
+   },
+   {
+      "15.24":{
+         "Music and Audio":"Kids & Family Podcasts"
+      }
+   },
+   {
+      "15.25":{
+         "Music and Audio":"News & Politics Podcasts"
+      }
+   },
+   {
+      "15.26":{
+         "Music and Audio":"Oldies Music"
+      }
+   },
+   {
+      "15.27":{
+         "Music and Audio":"Public Radio"
+      }
+   },
+   {
+      "15.28":{
+         "Music and Audio":"Reggae"
+      }
+   },
+   {
+      "15.29":{
+         "Music and Audio":"Religion & Spirituality Podcasts"
+      }
+   },
+   {
+      "15.3":{
+         "Music and Audio":"Blues"
+      }
+   },
+   {
+      "15.3":{
+         "Music and Audio":"Religious Music"
+      }
+   },
+   {
+      "15.31":{
+         "Music and Audio":"Rhythm and Blues"
+      }
+   },
+   {
+      "15.32":{
+         "Music and Audio":"Rock Music"
+      }
+   },
+   {
+      "15.32.1":{
+         "Music and Audio":{
+            "Rock Music":"Album-oriented Rock"
+         }
+      }
+   },
+   {
+      "15.32.2":{
+         "Music and Audio":{
+            "Rock Music":"Alternative Rock"
+         }
+      }
+   },
+   {
+      "15.32.3":{
+         "Music and Audio":{
+            "Rock Music":"Classic Rock"
+         }
+      }
+   },
+   {
+      "15.32.4":{
+         "Music and Audio":{
+            "Rock Music":"Hard Rock"
+         }
+      }
+   },
+   {
+      "15.33":{
+         "Music and Audio":"Science & Medicine Podcasts"
+      }
+   },
+   {
+      "15.34":{
+         "Music and Audio":"Society & Culture Podcasts"
+      }
+   },
+   {
+      "15.35":{
+         "Music and Audio":"Soundtracks"
+      }
+   },
+   {
+      "15.36":{
+         "Music and Audio":"Sports & Recreation Podcasts"
+      }
+   },
+   {
+      "15.37":{
+         "Music and Audio":"Sports Play-by-Play"
+      }
+   },
+   {
+      "15.38":{
+         "Music and Audio":"Sports Talk Radio"
+      }
+   },
+   {
+      "15.39":{
+         "Music and Audio":"Talk Radio"
+      }
+   },
+   {
+      "15.39.1":{
+         "Music and Audio":{
+            "Talk Radio":"All-news radio"
+         }
+      }
+   },
+   {
+      "15.39.2":{
+         "Music and Audio":{
+            "Talk Radio":"Educational Radio"
+         }
+      }
+   },
+   {
+      "15.39.3":{
+         "Music and Audio":{
+            "Talk Radio":"News/Talk"
+         }
+      }
+   },
+   {
+      "15.4":{
+         "Music and Audio":"Business News Radio"
+      }
+   },
+   {
+      "15.4":{
+         "Music and Audio":"Technology Podcasts"
+      }
+   },
+   {
+      "15.41":{
+         "Music and Audio":"TV & Film Podcasts"
+      }
+   },
+   {
+      "15.42":{
+         "Music and Audio":"Urban Adult Contemporary Music"
+      }
+   },
+   {
+      "15.43":{
+         "Music and Audio":"Urban Contemporary Music"
+      }
+   },
+   {
+      "15.5":{
+         "Music and Audio":"Business Podcasts"
+      }
+   },
+   {
+      "15.6":{
+         "Music and Audio":"Children's Music"
+      }
+   },
+   {
+      "15.7":{
+         "Music and Audio":"Classic Hits"
+      }
+   },
+   {
+      "15.8":{
+         "Music and Audio":"Classical Music"
+      }
+   },
+   {
+      "15.9":{
+         "Music and Audio":"College Radio"
+      }
+   },
+   {
+      "16":"News and Politics"
+   },
+   {
+      "16.1":{
+         "News and Politics":"Crime"
+      }
+   },
+   {
+      "16.2":{
+         "News and Politics":"Disasters"
+      }
+   },
+   {
+      "16.3":{
+         "News and Politics":"International News"
+      }
+   },
+   {
+      "16.4":{
+         "News and Politics":"Law"
+      }
+   },
+   {
+      "16.5":{
+         "News and Politics":"Local News"
+      }
+   },
+   {
+      "16.6":{
+         "News and Politics":"National News"
+      }
+   },
+   {
+      "16.7":{
+         "News and Politics":"Politics"
+      }
+   },
+   {
+      "16.7.1":{
+         "News and Politics":{
+            "Politics":"Elections"
+         }
+      }
+   },
+   {
+      "16.7.2":{
+         "News and Politics":{
+            "Politics":"Political Issues"
+         }
+      }
+   },
+   {
+      "16.7.3":{
+         "News and Politics":{
+            "Politics":"War and Conflicts"
+         }
+      }
+   },
+   {
+      "16.8":{
+         "News and Politics":"Weather"
+      }
+   },
+   {
+      "17":"Personal Finance"
+   },
+   {
+      "17.1":{
+         "Personal Finance":"Consumer Banking"
+      }
+   },
+   {
+      "17.2":{
+         "Personal Finance":"Financial Assistance"
+      }
+   },
+   {
+      "17.2.1":{
+         "Personal Finance":{
+            "Financial Assistance":"Government Support and Welfare"
+         }
+      }
+   },
+   {
+      "17.2.2":{
+         "Personal Finance":{
+            "Financial Assistance":"Student Financial Aid"
+         }
+      }
+   },
+   {
+      "17.3":{
+         "Personal Finance":"Financial Planning"
+      }
+   },
+   {
+      "17.4":{
+         "Personal Finance":"Frugal Living"
+      }
+   },
+   {
+      "17.5":{
+         "Personal Finance":"Insurance"
+      }
+   },
+   {
+      "17.5.1":{
+         "Personal Finance":{
+            "Insurance":"Health Insurance"
+         }
+      }
+   },
+   {
+      "17.5.2":{
+         "Personal Finance":{
+            "Insurance":"Home Insurance"
+         }
+      }
+   },
+   {
+      "17.5.3":{
+         "Personal Finance":{
+            "Insurance":"Life Insurance"
+         }
+      }
+   },
+   {
+      "17.5.4":{
+         "Personal Finance":{
+            "Insurance":"Motor Insurance"
+         }
+      }
+   },
+   {
+      "17.5.5":{
+         "Personal Finance":{
+            "Insurance":"Pet Insurance"
+         }
+      }
+   },
+   {
+      "17.5.6":{
+         "Personal Finance":{
+            "Insurance":"Travel Insurance"
+         }
+      }
+   },
+   {
+      "17.6":{
+         "Personal Finance":"Personal Debt"
+      }
+   },
+   {
+      "17.6.1":{
+         "Personal Finance":{
+            "Personal Debt":"Credit Cards"
+         }
+      }
+   },
+   {
+      "17.6.2":{
+         "Personal Finance":{
+            "Personal Debt":"Home Financing"
+         }
+      }
+   },
+   {
+      "17.6.3":{
+         "Personal Finance":{
+            "Personal Debt":"Personal Loans"
+         }
+      }
+   },
+   {
+      "17.6.4":{
+         "Personal Finance":{
+            "Personal Debt":"Student Loans"
+         }
+      }
+   },
+   {
+      "17.7":{
+         "Personal Finance":"Personal Investing"
+      }
+   },
+   {
+      "17.7.1":{
+         "Personal Finance":{
+            "Personal Investing":"Hedge Funds"
+         }
+      }
+   },
+   {
+      "17.7.2":{
+         "Personal Finance":{
+            "Personal Investing":"Mutual Funds"
+         }
+      }
+   },
+   {
+      "17.7.3":{
+         "Personal Finance":{
+            "Personal Investing":"Options"
+         }
+      }
+   },
+   {
+      "17.7.4":{
+         "Personal Finance":{
+            "Personal Investing":"Stocks and Bonds"
+         }
+      }
+   },
+   {
+      "17.8":{
+         "Personal Finance":"Personal Taxes"
+      }
+   },
+   {
+      "17.9":{
+         "Personal Finance":"Retirement Planning"
+      }
+   },
+   {
+      "18":"Pets"
+   },
+   {
+      "18.1":{
+         "Pets":"Birds"
+      }
+   },
+   {
+      "18.2":{
+         "Pets":"Cats"
+      }
+   },
+   {
+      "18.3":{
+         "Pets":"Dogs"
+      }
+   },
+   {
+      "18.4":{
+         "Pets":"Fish and Aquariums"
+      }
+   },
+   {
+      "18.5":{
+         "Pets":"Large Animals"
+      }
+   },
+   {
+      "18.6":{
+         "Pets":"Pet Adoptions"
+      }
+   },
+   {
+      "18.7":{
+         "Pets":"Reptiles"
+      }
+   },
+   {
+      "18.8":{
+         "Pets":"Veterinary Medicine"
+      }
+   },
+   {
+      "19":"Pop Culture"
+   },
+   {
+      "19.1":{
+         "Pop Culture":"Celebrity Deaths"
+      }
+   },
+   {
+      "19.2":{
+         "Pop Culture":"Celebrity Families"
+      }
+   },
+   {
+      "19.3":{
+         "Pop Culture":"Celebrity Homes"
+      }
+   },
+   {
+      "19.4":{
+         "Pop Culture":"Celebrity Pregnancy"
+      }
+   },
+   {
+      "19.5":{
+         "Pop Culture":"Celebrity Relationships"
+      }
+   },
+   {
+      "19.6":{
+         "Pop Culture":"Celebrity Scandal"
+      }
+   },
+   {
+      "19.7":{
+         "Pop Culture":"Celebrity Style"
+      }
+   },
+   {
+      "20":"Real Estate"
+   },
+   {
+      "20.1":{
+         "Real Estate":"Apartments"
+      }
+   },
+   {
+      "20.1":{
+         "Real Estate":"Retail Property"
+      }
+   },
+   {
+      "20.11":{
+         "Real Estate":"Vacation Properties"
+      }
+   },
+   {
+      "20.2":{
+         "Real Estate":"Developmental Sites"
+      }
+   },
+   {
+      "20.3":{
+         "Real Estate":"Hotel Properties"
+      }
+   },
+   {
+      "20.4":{
+         "Real Estate":"Houses"
+      }
+   },
+   {
+      "20.5":{
+         "Real Estate":"Industrial Property"
+      }
+   },
+   {
+      "20.6":{
+         "Real Estate":"Land and Farms"
+      }
+   },
+   {
+      "20.7":{
+         "Real Estate":"Office Property"
+      }
+   },
+   {
+      "20.8":{
+         "Real Estate":"Real Estate Buying and Selling"
+      }
+   },
+   {
+      "20.9":{
+         "Real Estate":"Real Estate Renting and Leasing"
+      }
+   },
+   {
+      "21":"Religion & Spirituality"
+   },
+   {
+      "21.1":{
+         "Religion & Spirituality":"Agnosticism"
+      }
+   },
+   {
+      "21.1":{
+         "Religion & Spirituality":"Spirituality"
+      }
+   },
+   {
+      "21.2":{
+         "Religion & Spirituality":"Astrology"
+      }
+   },
+   {
+      "21.3":{
+         "Religion & Spirituality":"Atheism"
+      }
+   },
+   {
+      "21.4":{
+         "Religion & Spirituality":"Buddhism"
+      }
+   },
+   {
+      "21.5":{
+         "Religion & Spirituality":"Christianity"
+      }
+   },
+   {
+      "21.6":{
+         "Religion & Spirituality":"Hinduism"
+      }
+   },
+   {
+      "21.7":{
+         "Religion & Spirituality":"Islam"
+      }
+   },
+   {
+      "21.8":{
+         "Religion & Spirituality":"Judaism"
+      }
+   },
+   {
+      "21.9":{
+         "Religion & Spirituality":"Sikhism"
+      }
+   },
+   {
+      "22":"Science"
+   },
+   {
+      "22.1":{
+         "Science":"Biological Sciences"
+      }
+   },
+   {
+      "22.2":{
+         "Science":"Chemistry"
+      }
+   },
+   {
+      "22.3":{
+         "Science":"Environment"
+      }
+   },
+   {
+      "22.4":{
+         "Science":"Genetics"
+      }
+   },
+   {
+      "22.5":{
+         "Science":"Geography"
+      }
+   },
+   {
+      "22.6":{
+         "Science":"Geology"
+      }
+   },
+   {
+      "22.7":{
+         "Science":"Physics"
+      }
+   },
+   {
+      "22.8":{
+         "Science":"Space and Astronomy"
+      }
+   },
+   {
+      "23.1":{
+         "Shopping":"Couponing"
+      }
+   },
+   {
+      "23":"Shopping"
+   },
+   {
+      "24":"Sports"
+   },
+   {
+      "24.1":{
+         "Sports":"American Football"
+      }
+   },
+   {
+      "24.1":{
+         "Sports":"Boxing"
+      }
+   },
+   {
+      "24.11":{
+         "Sports":"Cheerleading"
+      }
+   },
+   {
+      "24.12":{
+         "Sports":"College Sports"
+      }
+   },
+   {
+      "24.13":{
+         "Sports":"Cricket"
+      }
+   },
+   {
+      "24.14":{
+         "Sports":"Cycling"
+      }
+   },
+   {
+      "24.15":{
+         "Sports":"Darts"
+      }
+   },
+   {
+      "24.16":{
+         "Sports":"Disabled Sports"
+      }
+   },
+   {
+      "24.17":{
+         "Sports":"Diving"
+      }
+   },
+   {
+      "24.18":{
+         "Sports":"Equine Sports"
+      }
+   },
+   {
+      "24.18.1":{
+         "Sports":{
+            "Equine Sports":"Horse Racing"
+         }
+      }
+   },
+   {
+      "24.19":{
+         "Sports":"Extreme Sports"
+      }
+   },
+   {
+      "24.19.1":{
+         "Sports":{
+            "Extreme Sports":"Canoeing and Kayaking"
+         }
+      }
+   },
+   {
+      "24.19.2":{
+         "Sports":{
+            "Extreme Sports":"Climbing"
+         }
+      }
+   },
+   {
+      "24.19.3":{
+         "Sports":{
+            "Extreme Sports":"Paintball"
+         }
+      }
+   },
+   {
+      "24.19.4":{
+         "Sports":{
+            "Extreme Sports":"Scuba Diving"
+         }
+      }
+   },
+   {
+      "24.19.5":{
+         "Sports":{
+            "Extreme Sports":"Skateboarding"
+         }
+      }
+   },
+   {
+      "24.19.6":{
+         "Sports":{
+            "Extreme Sports":"Snowboarding"
+         }
+      }
+   },
+   {
+      "24.19.7":{
+         "Sports":{
+            "Extreme Sports":"Surfing and Bodyboarding"
+         }
+      }
+   },
+   {
+      "24.19.8":{
+         "Sports":{
+            "Extreme Sports":"Waterskiing and Wakeboarding"
+         }
+      }
+   },
+   {
+      "24.2":{
+         "Sports":"Australian Rules Football"
+      }
+   },
+   {
+      "24.2":{
+         "Sports":"Fantasy Sports"
+      }
+   },
+   {
+      "24.21":{
+         "Sports":"Field Hockey"
+      }
+   },
+   {
+      "24.22":{
+         "Sports":"Figure Skating"
+      }
+   },
+   {
+      "24.23":{
+         "Sports":"Fishing Sports"
+      }
+   },
+   {
+      "24.24":{
+         "Sports":"Golf"
+      }
+   },
+   {
+      "24.25":{
+         "Sports":"Gymnastics"
+      }
+   },
+   {
+      "24.26":{
+         "Sports":"Hunting and Shooting"
+      }
+   },
+   {
+      "24.27":{
+         "Sports":"Ice Hockey"
+      }
+   },
+   {
+      "24.28":{
+         "Sports":"Inline Skating"
+      }
+   },
+   {
+      "24.29":{
+         "Sports":"Lacrosse"
+      }
+   },
+   {
+      "24.3":{
+         "Sports":"Auto Racing"
+      }
+   },
+   {
+      "24.3.1":{
+         "Sports":{
+            "Auto Racing":"Motorcycle Sports"
+         }
+      }
+   },
+   {
+      "24.3":{
+         "Sports":"Martial Arts"
+      }
+   },
+   {
+      "24.31":{
+         "Sports":"Olympic Sports"
+      }
+   },
+   {
+      "24.31.1":{
+         "Sports":{
+            "Olympic Sports":"Summer Olympic Sports"
+         }
+      }
+   },
+   {
+      "24.31.2":{
+         "Sports":{
+            "Olympic Sports":"Winter Olympic Sports"
+         }
+      }
+   },
+   {
+      "24.32":{
+         "Sports":"Poker and Professional Gambling"
+      }
+   },
+   {
+      "24.33":{
+         "Sports":"Rodeo"
+      }
+   },
+   {
+      "24.34":{
+         "Sports":"Rowing"
+      }
+   },
+   {
+      "24.35":{
+         "Sports":"Rugby"
+      }
+   },
+   {
+      "24.35.1":{
+         "Sports":{
+            "Rugby":"Rugby League"
+         }
+      }
+   },
+   {
+      "24.35.2":{
+         "Sports":{
+            "Rugby":"Rugby Union"
+         }
+      }
+   },
+   {
+      "24.36":{
+         "Sports":"Sailing"
+      }
+   },
+   {
+      "24.37":{
+         "Sports":"Skiing"
+      }
+   },
+   {
+      "24.38":{
+         "Sports":"Snooker/Pool/Billiards"
+      }
+   },
+   {
+      "24.39":{
+         "Sports":"Soccer"
+      }
+   },
+   {
+      "24.4":{
+         "Sports":"Badminton"
+      }
+   },
+   {
+      "24.4":{
+         "Sports":"Softball"
+      }
+   },
+   {
+      "24.41":{
+         "Sports":"Squash"
+      }
+   },
+   {
+      "24.42":{
+         "Sports":"Swimming"
+      }
+   },
+   {
+      "24.43":{
+         "Sports":"Table Tennis"
+      }
+   },
+   {
+      "24.44":{
+         "Sports":"Tennis"
+      }
+   },
+   {
+      "24.45":{
+         "Sports":"Track and Field"
+      }
+   },
+   {
+      "24.46":{
+         "Sports":"Volleyball"
+      }
+   },
+   {
+      "24.47":{
+         "Sports":"Walking"
+      }
+   },
+   {
+      "24.48":{
+         "Sports":"Water Polo"
+      }
+   },
+   {
+      "24.49":{
+         "Sports":"Weightlifting"
+      }
+   },
+   {
+      "24.5":{
+         "Sports":"Baseball"
+      }
+   },
+   {
+      "24.5":{
+         "Sports":"Wrestling"
+      }
+   },
+   {
+      "24.6":{
+         "Sports":"Basketball"
+      }
+   },
+   {
+      "24.7":{
+         "Sports":"Beach Volleyball"
+      }
+   },
+   {
+      "24.8":{
+         "Sports":"Bodybuilding"
+      }
+   },
+   {
+      "24.9":{
+         "Sports":"Bowling"
+      }
+   },
+   {
+      "25":"Style & Fashion"
+   },
+   {
+      "25.1":{
+         "Style & Fashion":"Beauty"
+      }
+   },
+   {
+      "25.1.1":{
+         "Style & Fashion":{
+            "Beauty":"Hair Care"
+         }
+      }
+   },
+   {
+      "25.1.2":{
+         "Style & Fashion":{
+            "Beauty":"Makeup and Accessories"
+         }
+      }
+   },
+   {
+      "25.1.3":{
+         "Style & Fashion":{
+            "Beauty":"Nail Care"
+         }
+      }
+   },
+   {
+      "25.1.4":{
+         "Style & Fashion":{
+            "Beauty":"Natural and Organic Beauty"
+         }
+      }
+   },
+   {
+      "25.1.5":{
+         "Style & Fashion":{
+            "Beauty":"Perfume and Fragrance"
+         }
+      }
+   },
+   {
+      "25.1.6":{
+         "Style & Fashion":{
+            "Beauty":"Skin Care"
+         }
+      }
+   },
+   {
+      "25.1":{
+         "Style & Fashion":"Women's Fashion"
+      }
+   },
+   {
+      "25.10.1":{
+         "Style & Fashion":{
+            "Women's Fashion":"Women's Accessories"
+         }
+      }
+   },
+   {
+      "25.10.1.1":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Accessories":"Women's Glasses"
+            }
+         }
+      }
+   },
+   {
+      "25.10.1.2":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Accessories":"Women's Handbags and Wallets"
+            }
+         }
+      }
+   },
+   {
+      "25.10.1.3":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Accessories":"Women's Hats and Scarves"
+            }
+         }
+      }
+   },
+   {
+      "25.10.1.4":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Accessories":"Women's Jewelry and Watches"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2":{
+         "Style & Fashion":{
+            "Women's Fashion":"Women's Clothing"
+         }
+      }
+   },
+   {
+      "25.10.2.1":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Business Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2.2":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Casual Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2.3":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Formal Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2.4":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Intimates and Sleepwear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2.5":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Outerwear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.2.6":{
+         "Style & Fashion":{
+            "Women's Fashion":{
+               "Women's Clothing":"Women's Sportswear"
+            }
+         }
+      }
+   },
+   {
+      "25.10.3":{
+         "Style & Fashion":{
+            "Women's Fashion":"Women's Shoes and Footwear"
+         }
+      }
+   },
+   {
+      "25.2":{
+         "Style & Fashion":"Body Art"
+      }
+   },
+   {
+      "25.3":{
+         "Style & Fashion":"Children's Clothing"
+      }
+   },
+   {
+      "25.4":{
+         "Style & Fashion":"Designer Clothing"
+      }
+   },
+   {
+      "25.5":{
+         "Style & Fashion":"Fashion Trends"
+      }
+   },
+   {
+      "25.6":{
+         "Style & Fashion":"High Fashion"
+      }
+   },
+   {
+      "25.7":{
+         "Style & Fashion":"Men's Fashion"
+      }
+   },
+   {
+      "25.7.1":{
+         "Style & Fashion":{
+            "Men's Fashion":"Men's Accessories"
+         }
+      }
+   },
+   {
+      "25.7.1.1":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Accessories":"Men's Jewelry and Watches"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2":{
+         "Style & Fashion":{
+            "Men's Fashion":"Men's Clothing"
+         }
+      }
+   },
+   {
+      "25.7.2.1":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Business Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2.2":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Casual Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2.3":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Formal Wear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2.4":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Outerwear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2.5":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Sportswear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.2.6":{
+         "Style & Fashion":{
+            "Men's Fashion":{
+               "Men's Clothing":"Men's Underwear and Sleepwear"
+            }
+         }
+      }
+   },
+   {
+      "25.7.3":{
+         "Style & Fashion":{
+            "Men's Fashion":"Men's Shoes and Footwear"
+         }
+      }
+   },
+   {
+      "25.8":{
+         "Style & Fashion":"Personal Care"
+      }
+   },
+   {
+      "25.8.1":{
+         "Style & Fashion":{
+            "Personal Care":"Bath and Shower"
+         }
+      }
+   },
+   {
+      "25.8.2":{
+         "Style & Fashion":{
+            "Personal Care":"Deodorant and Antiperspirant"
+         }
+      }
+   },
+   {
+      "25.8.3":{
+         "Style & Fashion":{
+            "Personal Care":"Oral care"
+         }
+      }
+   },
+   {
+      "25.8.4":{
+         "Style & Fashion":{
+            "Personal Care":"Shaving"
+         }
+      }
+   },
+   {
+      "25.9":{
+         "Style & Fashion":"Street Style"
+      }
+   },
+   {
+      "26":"Technology & Computing"
+   },
+   {
+      "26.1":{
+         "Technology & Computing":"Artificial Intelligence"
+      }
+   },
+   {
+      "26.2":{
+         "Technology & Computing":"Augmented Reality"
+      }
+   },
+   {
+      "26.3":{
+         "Technology & Computing":"Computing"
+      }
+   },
+   {
+      "26.3.1":{
+         "Technology & Computing":{
+            "Computing":"Computer Networking"
+         }
+      }
+   },
+   {
+      "26.3.2":{
+         "Technology & Computing":{
+            "Computing":"Computer Peripherals"
+         }
+      }
+   },
+   {
+      "26.3.3":{
+         "Technology & Computing":{
+            "Computing":"Computer Software and Applications"
+         }
+      }
+   },
+   {
+      "26.3.3.1":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"3-D Graphics"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.10":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Photo Editing Software"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.11":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Shareware and Freeware"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.12":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Video Software"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.13":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Web Conferencing"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.2":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Antivirus Software"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.3":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Browsers"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.4":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Computer Animation"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.5":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Databases"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.6":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Desktop Publishing"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.7":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Digital Audio"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.8":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Graphics Software"
+            }
+         }
+      }
+   },
+   {
+      "26.3.3.9":{
+         "Technology & Computing":{
+            "Computing":{
+               "Computer Software and Applications":"Operating Systems"
+            }
+         }
+      }
+   },
+   {
+      "26.3.4":{
+         "Technology & Computing":{
+            "Computing":"Data Storage and Warehousing"
+         }
+      }
+   },
+   {
+      "26.3.5":{
+         "Technology & Computing":{
+            "Computing":"Desktops"
+         }
+      }
+   },
+   {
+      "26.3.6":{
+         "Technology & Computing":{
+            "Computing":"Information and Network Security"
+         }
+      }
+   },
+   {
+      "26.3.7":{
+         "Technology & Computing":{
+            "Computing":"Internet"
+         }
+      }
+   },
+   {
+      "26.3.7.1":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Cloud Computing"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.10":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Web Development"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.11":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Web Hosting"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.2":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Email"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.3":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Internet for Beginners"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.4":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Internet of Things"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.5":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"IT and Internet Support"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.6":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Search"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.7":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Social Networking"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.8":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Web Conferencing"
+            }
+         }
+      }
+   },
+   {
+      "26.3.7.9":{
+         "Technology & Computing":{
+            "Computing":{
+               "Internet":"Web Design and HTML"
+            }
+         }
+      }
+   },
+   {
+      "26.3.8":{
+         "Technology & Computing":{
+            "Computing":"Laptops"
+         }
+      }
+   },
+   {
+      "26.3.9":{
+         "Technology & Computing":{
+            "Computing":"Programming Languages"
+         }
+      }
+   },
+   {
+      "26.4":{
+         "Technology & Computing":"Consumer Electronics"
+      }
+   },
+   {
+      "26.4.1":{
+         "Technology & Computing":{
+            "Consumer Electronics":"Cameras and Camcorders"
+         }
+      }
+   },
+   {
+      "26.4.2":{
+         "Technology & Computing":{
+            "Consumer Electronics":"Home Entertainment Systems"
+         }
+      }
+   },
+   {
+      "26.4.3":{
+         "Technology & Computing":{
+            "Consumer Electronics":"Smartphones"
+         }
+      }
+   },
+   {
+      "26.4.4":{
+         "Technology & Computing":{
+            "Consumer Electronics":"Tablets and E-readers"
+         }
+      }
+   },
+   {
+      "26.4.5":{
+         "Technology & Computing":{
+            "Consumer Electronics":"Wearable Technology"
+         }
+      }
+   },
+   {
+      "26.5":{
+         "Technology & Computing":"Robotics"
+      }
+   },
+   {
+      "26.6":{
+         "Technology & Computing":"Virtual Reality"
+      }
+   },
+   {
+      "27":"Television"
+   },
+   {
+      "27.1":{
+         "Television":"Animation TV"
+      }
+   },
+   {
+      "27.1":{
+         "Television":"Soap Opera TV"
+      }
+   },
+   {
+      "27.11":{
+         "Television":"Special Interest TV"
+      }
+   },
+   {
+      "27.12":{
+         "Television":"Sports TV"
+      }
+   },
+   {
+      "27.2":{
+         "Television":"Children's TV"
+      }
+   },
+   {
+      "27.3":{
+         "Television":"Comedy TV"
+      }
+   },
+   {
+      "27.4":{
+         "Television":"Drama TV"
+      }
+   },
+   {
+      "27.5":{
+         "Television":"Factual TV"
+      }
+   },
+   {
+      "27.6":{
+         "Television":"Holiday TV"
+      }
+   },
+   {
+      "27.7":{
+         "Television":"Music TV"
+      }
+   },
+   {
+      "27.8":{
+         "Television":"Reality TV"
+      }
+   },
+   {
+      "27.9":{
+         "Television":"Science Fiction TV"
+      }
+   },
+   {
+      "28":"Travel"
+   },
+   {
+      "28.1":{
+         "Travel":"Travel Accessories"
+      }
+   },
+   {
+      "28.2":{
+         "Travel":"Travel Locations"
+      }
+   },
+   {
+      "28.2.1":{
+         "Travel":{
+            "Travel Locations":"Africa Travel"
+         }
+      }
+   },
+   {
+      "28.2.2":{
+         "Travel":{
+            "Travel Locations":"Asia Travel"
+         }
+      }
+   },
+   {
+      "28.2.3":{
+         "Travel":{
+            "Travel Locations":"Australia and Oceania Travel"
+         }
+      }
+   },
+   {
+      "28.2.4":{
+         "Travel":{
+            "Travel Locations":"Europe Travel"
+         }
+      }
+   },
+   {
+      "28.2.5":{
+         "Travel":{
+            "Travel Locations":"North America Travel"
+         }
+      }
+   },
+   {
+      "28.2.6":{
+         "Travel":{
+            "Travel Locations":"Polar Travel"
+         }
+      }
+   },
+   {
+      "28.2.7":{
+         "Travel":{
+            "Travel Locations":"South America Travel"
+         }
+      }
+   },
+   {
+      "28.3":{
+         "Travel":"Travel Preparation"
+      }
+   },
+   {
+      "28.4":{
+         "Travel":"Travel Type"
+      }
+   },
+   {
+      "28.4.1":{
+         "Travel":{
+            "Travel Type":"Adventure Travel"
+         }
+      }
+   },
+   {
+      "28.4.10":{
+         "Travel":{
+            "Travel Type":"Family Travel"
+         }
+      }
+   },
+   {
+      "28.4.11":{
+         "Travel":{
+            "Travel Type":"Honeymoons and Getaways"
+         }
+      }
+   },
+   {
+      "28.4.12":{
+         "Travel":{
+            "Travel Type":"Hotels and Motels"
+         }
+      }
+   },
+   {
+      "28.4.13":{
+         "Travel":{
+            "Travel Type":"Rail Travel"
+         }
+      }
+   },
+   {
+      "28.4.14":{
+         "Travel":{
+            "Travel Type":"Road Trips"
+         }
+      }
+   },
+   {
+      "28.4.15":{
+         "Travel":{
+            "Travel Type":"Spas"
+         }
+      }
+   },
+   {
+      "28.4.2":{
+         "Travel":{
+            "Travel Type":"Air Travel"
+         }
+      }
+   },
+   {
+      "28.4.3":{
+         "Travel":{
+            "Travel Type":"Beach Travel"
+         }
+      }
+   },
+   {
+      "28.4.4":{
+         "Travel":{
+            "Travel Type":"Bed & Breakfasts"
+         }
+      }
+   },
+   {
+      "28.4.5":{
+         "Travel":{
+            "Travel Type":"Budget Travel"
+         }
+      }
+   },
+   {
+      "28.4.6":{
+         "Travel":{
+            "Travel Type":"Business Travel"
+         }
+      }
+   },
+   {
+      "28.4.7":{
+         "Travel":{
+            "Travel Type":"Camping"
+         }
+      }
+   },
+   {
+      "28.4.8":{
+         "Travel":{
+            "Travel Type":"Cruises"
+         }
+      }
+   },
+   {
+      "28.4.9":{
+         "Travel":{
+            "Travel Type":"Day Trips"
+         }
+      }
+   },
+   {
+      "29":"Video Gaming"
+   },
+   {
+      "29.1":{
+         "Video Gaming":"Console Games"
+      }
+   },
+   {
+      "29.2":{
+         "Video Gaming":"eSports"
+      }
+   },
+   {
+      "29.3":{
+         "Video Gaming":"Mobile Games"
+      }
+   },
+   {
+      "29.4":{
+         "Video Gaming":"PC Games"
+      }
+   },
+   {
+      "29.5":{
+         "Video Gaming":"Video Game Genres"
+      }
+   },
+   {
+      "29.5.1":{
+         "Video Gaming":{
+            "Video Game Genres":"Action Video Games"
+         }
+      }
+   },
+   {
+      "29.5.10":{
+         "Video Gaming":{
+            "Video Game Genres":"Role-Playing Video Games"
+         }
+      }
+   },
+   {
+      "29.5.11":{
+         "Video Gaming":{
+            "Video Game Genres":"Simulation Video Games"
+         }
+      }
+   },
+   {
+      "29.5.12":{
+         "Video Gaming":{
+            "Video Game Genres":"Sports Video Games"
+         }
+      }
+   },
+   {
+      "29.5.13":{
+         "Video Gaming":{
+            "Video Game Genres":"Strategy Video Games"
+         }
+      }
+   },
+   {
+      "29.5.2":{
+         "Video Gaming":{
+            "Video Game Genres":"Action-Adventure Video Games"
+         }
+      }
+   },
+   {
+      "29.5.3":{
+         "Video Gaming":{
+            "Video Game Genres":"Adventure Video Games"
+         }
+      }
+   },
+   {
+      "29.5.4":{
+         "Video Gaming":{
+            "Video Game Genres":"Casual Games"
+         }
+      }
+   },
+   {
+      "29.5.5":{
+         "Video Gaming":{
+            "Video Game Genres":"Educational Video Games"
+         }
+      }
+   },
+   {
+      "29.5.6":{
+         "Video Gaming":{
+            "Video Game Genres":"Exercise and Fitness Video Games"
+         }
+      }
+   },
+   {
+      "29.5.7":{
+         "Video Gaming":{
+            "Video Game Genres":"MMOs"
+         }
+      }
+   },
+   {
+      "29.5.8":{
+         "Video Gaming":{
+            "Video Game Genres":"Music and Party Video Games"
+         }
+      }
+   },
+   {
+      "29.5.9":{
+         "Video Gaming":{
+            "Video Game Genres":"Puzzle Video Games"
+         }
+      }
+   },
+   {
+      "CC":"Content Channel"
+   },
+   {
+      "CC.1":{
+         "Content Channel":"Editorial/Professional"
+      }
+   },
+   {
+      "CC.2":{
+         "Content Channel":"Email"
+      }
+   },
+   {
+      "CC.3":{
+         "Content Channel":"Forum/Community"
+      }
+   },
+   {
+      "CC.4":{
+         "Content Channel":"Game"
+      }
+   },
+   {
+      "CC.5":{
+         "Content Channel":"Marketplace/eCommerce"
+      }
+   },
+   {
+      "CC.6":{
+         "Content Channel":"Search Engine/Listings"
+      }
+   },
+   {
+      "CC.7":{
+         "Content Channel":"Social"
+      }
+   },
+   {
+      "CC.8":{
+         "Content Channel":"Utility/Online Tool"
+      }
+   },
+   {
+      "CC.9":{
+         "Content Channel":"Voice Activated Channels"
+      }
+   },
+   {
+      "CT":"Content Type"
+   },
+   {
+      "CT.1":{
+         "Content Type":"Academic/ResearchConent"
+      }
+   },
+   {
+      "CT.2":{
+         "Content Type":"Chat/IM/Comments"
+      }
+   },
+   {
+      "CT.3":{
+         "Content Type":"Educational Content"
+      }
+   },
+   {
+      "CT.4":{
+         "Content Type":"Entertainment Content"
+      }
+   },
+   {
+      "CT.5":{
+         "Content Type":"Feature"
+      }
+   },
+   {
+      "CT.6":{
+         "Content Type":"General Social"
+      }
+   },
+   {
+      "CT.7":{
+         "Content Type":"Instructional Content"
+      }
+   },
+   {
+      "CT.8":{
+         "Content Type":"Interactive Content"
+      }
+   },
+   {
+      "CT.9":{
+         "Content Type":"Listings/Classifieds/Product Listings/Search Results"
+      }
+   },
+   {
+      "CT.10":{
+         "Content Type":"News"
+      }
+   },
+   {
+      "CT.11":{
+         "Content Type":"Review"
+      }
+   },
+   {
+      "CF":"Content Media Format"
+   },
+   {
+      "CF.1":{
+         "Content Media Format":"Audio"
+      }
+   },
+   {
+      "CF.2":{
+         "Content Media Format":"Images/Galleries"
+      }
+   },
+   {
+      "CF.3":{
+         "Content Media Format":"Interactive"
+      }
+   },
+   {
+      "CF.4":{
+         "Content Media Format":"Mixed"
+      }
+   },
+   {
+      "CF.5":{
+         "Content Media Format":"Textual"
+      }
+   },
+   {
+      "CF.6":{
+         "Content Media Format":"Video"
+      }
+   },
+   {
+      "CF.7":{
+         "Content Media Format":"VR/AR"
+      }
+   },
+   {
+      "CL":"Content Language"
+   },
+   {
+      "CL.aa":{
+         "Content Language":"Afar"
+      }
+   },
+   {
+      "CL.ab":{
+         "Content Language":"Abkhaz"
+      }
+   },
+   {
+      "CL.ae":{
+         "Content Language":"Avestan"
+      }
+   },
+   {
+      "CL.af":{
+         "Content Language":"Afrikaans"
+      }
+   },
+   {
+      "CL.ak":{
+         "Content Language":"Akan"
+      }
+   },
+   {
+      "CL.am":{
+         "Content Language":"Amharic"
+      }
+   },
+   {
+      "CL.an":{
+         "Content Language":"Aragonese"
+      }
+   },
+   {
+      "CL.ar":{
+         "Content Language":"Arabic"
+      }
+   },
+   {
+      "CL.as":{
+         "Content Language":"Assamese"
+      }
+   },
+   {
+      "CL.av":{
+         "Content Language":"Avaric"
+      }
+   },
+   {
+      "CL.ay":{
+         "Content Language":"Aymara"
+      }
+   },
+   {
+      "CL.az":{
+         "Content Language":"Azerbaijani"
+      }
+   },
+   {
+      "CL.ba":{
+         "Content Language":"Bashkir"
+      }
+   },
+   {
+      "CL.be":{
+         "Content Language":"Belarusian"
+      }
+   },
+   {
+      "CL.bg":{
+         "Content Language":"Bulgarian"
+      }
+   },
+   {
+      "CL.bh":{
+         "Content Language":"Bihari"
+      }
+   },
+   {
+      "CL.bi":{
+         "Content Language":"Bislama"
+      }
+   },
+   {
+      "CL.bm":{
+         "Content Language":"Bambara"
+      }
+   },
+   {
+      "CL.bn":{
+         "Content Language":"Bengali"
+      }
+   },
+   {
+      "CL.bo":{
+         "Content Language":"Tibetan"
+      }
+   },
+   {
+      "CL.br":{
+         "Content Language":"Breton"
+      }
+   },
+   {
+      "CL.bs":{
+         "Content Language":"Bosnian"
+      }
+   },
+   {
+      "CL.ca":{
+         "Content Language":"Catalan"
+      }
+   },
+   {
+      "CL.ce":{
+         "Content Language":"Chechen"
+      }
+   },
+   {
+      "CL.ch":{
+         "Content Language":"Chamorro"
+      }
+   },
+   {
+      "CL.co":{
+         "Content Language":"Corsican"
+      }
+   },
+   {
+      "CL.cr":{
+         "Content Language":"Cree"
+      }
+   },
+   {
+      "CL.cs":{
+         "Content Language":"Czech"
+      }
+   },
+   {
+      "CL.cu":{
+         "Content Language":"Old Church Slavonic"
+      }
+   },
+   {
+      "CL.cv":{
+         "Content Language":"Chuvash"
+      }
+   },
+   {
+      "CL.cy":{
+         "Content Language":"Welsh"
+      }
+   },
+   {
+      "CL.da":{
+         "Content Language":"Danish"
+      }
+   },
+   {
+      "CL.de":{
+         "Content Language":"German"
+      }
+   },
+   {
+      "CL.dv":{
+         "Content Language":"Divehi"
+      }
+   },
+   {
+      "CL.dz":{
+         "Content Language":"Dzongkha"
+      }
+   },
+   {
+      "CL.ee":{
+         "Content Language":"Ewe"
+      }
+   },
+   {
+      "CL.el":{
+         "Content Language":"Greek"
+      }
+   },
+   {
+      "CL.en":{
+         "Content Language":"English"
+      }
+   },
+   {
+      "CL.eo":{
+         "Content Language":"Esperanto"
+      }
+   },
+   {
+      "CL.es":{
+         "Content Language":"Spanish"
+      }
+   },
+   {
+      "CL.et":{
+         "Content Language":"Estonian"
+      }
+   },
+   {
+      "CL.eu":{
+         "Content Language":"Basque"
+      }
+   },
+   {
+      "CL.fa":{
+         "Content Language":"Farsi"
+      }
+   },
+   {
+      "CL.ff":{
+         "Content Language":"Fula"
+      }
+   },
+   {
+      "CL.fi":{
+         "Content Language":"Finnish"
+      }
+   },
+   {
+      "CL.fj":{
+         "Content Language":"Fijian"
+      }
+   },
+   {
+      "CL.fo":{
+         "Content Language":"Faroese"
+      }
+   },
+   {
+      "CL.fr":{
+         "Content Language":"French"
+      }
+   },
+   {
+      "CL.fy":{
+         "Content Language":"Western Frisian"
+      }
+   },
+   {
+      "CL.ga":{
+         "Content Language":"Irish"
+      }
+   },
+   {
+      "CL.gd":{
+         "Content Language":"Scottish Gaelic"
+      }
+   },
+   {
+      "CL.gl":{
+         "Content Language":"Galician"
+      }
+   },
+   {
+      "CL.gn":{
+         "Content Language":"Guarani"
+      }
+   },
+   {
+      "CL.gu":{
+         "Content Language":"Gujarati"
+      }
+   },
+   {
+      "CL.gv":{
+         "Content Language":"Manx"
+      }
+   },
+   {
+      "CL.ha":{
+         "Content Language":"Hausa"
+      }
+   },
+   {
+      "CL.he":{
+         "Content Language":"Hebrew"
+      }
+   },
+   {
+      "CL.hi":{
+         "Content Language":"Hindi"
+      }
+   },
+   {
+      "CL.ho":{
+         "Content Language":"Hiri Motu"
+      }
+   },
+   {
+      "CL.hr":{
+         "Content Language":"Croatian"
+      }
+   },
+   {
+      "CL.ht":{
+         "Content Language":"Haitian"
+      }
+   },
+   {
+      "CL.hu":{
+         "Content Language":"Hungarian"
+      }
+   },
+   {
+      "CL.hy":{
+         "Content Language":"Armenian"
+      }
+   },
+   {
+      "CL.hz":{
+         "Content Language":"Herero"
+      }
+   },
+   {
+      "CL.ia":{
+         "Content Language":"Interlingua"
+      }
+   },
+   {
+      "CL.id":{
+         "Content Language":"Indonesian"
+      }
+   },
+   {
+      "CL.ie":{
+         "Content Language":"Interlingue"
+      }
+   },
+   {
+      "CL.ig":{
+         "Content Language":"Igbo"
+      }
+   },
+   {
+      "CL.ii":{
+         "Content Language":"Nuosu"
+      }
+   },
+   {
+      "CL.ik":{
+         "Content Language":"Inupiaq"
+      }
+   },
+   {
+      "CL.io":{
+         "Content Language":"Ido"
+      }
+   },
+   {
+      "CL.is":{
+         "Content Language":"Icelandic"
+      }
+   },
+   {
+      "CL.it":{
+         "Content Language":"Italian"
+      }
+   },
+   {
+      "CL.iu":{
+         "Content Language":"Inuktitut"
+      }
+   },
+   {
+      "CL.ja":{
+         "Content Language":"Japanese"
+      }
+   },
+   {
+      "CL.jv":{
+         "Content Language":"Javanese"
+      }
+   },
+   {
+      "CL.ka":{
+         "Content Language":"Georgian"
+      }
+   },
+   {
+      "CL.kg":{
+         "Content Language":"Kongo"
+      }
+   },
+   {
+      "CL.ki":{
+         "Content Language":"Kikuyu"
+      }
+   },
+   {
+      "CL.kj":{
+         "Content Language":"Kwanyama"
+      }
+   },
+   {
+      "CL.kk":{
+         "Content Language":"Kazakh"
+      }
+   },
+   {
+      "CL.kl":{
+         "Content Language":"Kalaallisut"
+      }
+   },
+   {
+      "CL.km":{
+         "Content Language":"Khmer"
+      }
+   },
+   {
+      "CL.kn":{
+         "Content Language":"Kannada"
+      }
+   },
+   {
+      "CL.ko":{
+         "Content Language":"Korean"
+      }
+   },
+   {
+      "CL.kr":{
+         "Content Language":"Kanuri"
+      }
+   },
+   {
+      "CL.ks":{
+         "Content Language":"Kashmiri"
+      }
+   },
+   {
+      "CL.ku":{
+         "Content Language":"Kurdish"
+      }
+   },
+   {
+      "CL.kv":{
+         "Content Language":"Komi"
+      }
+   },
+   {
+      "CL.kw":{
+         "Content Language":"Cornish"
+      }
+   },
+   {
+      "CL.ky":{
+         "Content Language":"Kyrgyz"
+      }
+   },
+   {
+      "CL.la":{
+         "Content Language":"Latin"
+      }
+   },
+   {
+      "CL.lb":{
+         "Content Language":"Luxembourgish"
+      }
+   },
+   {
+      "CL.lg":{
+         "Content Language":"Ganda"
+      }
+   },
+   {
+      "CL.li":{
+         "Content Language":"Limburgish"
+      }
+   },
+   {
+      "CL.ln":{
+         "Content Language":"Lingala"
+      }
+   },
+   {
+      "CL.lo":{
+         "Content Language":"Lao"
+      }
+   },
+   {
+      "CL.lt":{
+         "Content Language":"Lithuanian"
+      }
+   },
+   {
+      "CL.lu":{
+         "Content Language":"Luba-Katanga"
+      }
+   },
+   {
+      "CL.lv":{
+         "Content Language":"Latvian"
+      }
+   },
+   {
+      "CL.mg":{
+         "Content Language":"Malagasy"
+      }
+   },
+   {
+      "CL.mh":{
+         "Content Language":"Marshallese"
+      }
+   },
+   {
+      "CL.mi":{
+         "Content Language":"Māori"
+      }
+   },
+   {
+      "CL.mk":{
+         "Content Language":"Macedonian"
+      }
+   },
+   {
+      "CL.ml":{
+         "Content Language":"Malayalam"
+      }
+   },
+   {
+      "CL.mn":{
+         "Content Language":"Mongolian"
+      }
+   },
+   {
+      "CL.mr":{
+         "Content Language":"Marathi"
+      }
+   },
+   {
+      "CL.ms":{
+         "Content Language":"Malay"
+      }
+   },
+   {
+      "CL.mt":{
+         "Content Language":"Maltese"
+      }
+   },
+   {
+      "CL.my":{
+         "Content Language":"Burmese"
+      }
+   },
+   {
+      "CL.na":{
+         "Content Language":"Nauruan"
+      }
+   },
+   {
+      "CL.nb":{
+         "Content Language":"Norwegian Bokmal"
+      }
+   },
+   {
+      "CL.nd":{
+         "Content Language":"Northern Ndebele"
+      }
+   },
+   {
+      "CL.ne":{
+         "Content Language":"Nepali"
+      }
+   },
+   {
+      "CL.ng":{
+         "Content Language":"Ndonga"
+      }
+   },
+   {
+      "CL.nl":{
+         "Content Language":"Dutch"
+      }
+   },
+   {
+      "CL.nn":{
+         "Content Language":"Norwegian Nynorsk"
+      }
+   },
+   {
+      "CL.no":{
+         "Content Language":"Norwegian"
+      }
+   },
+   {
+      "CL.nr":{
+         "Content Language":"Southern Ndebele"
+      }
+   },
+   {
+      "CL.nv":{
+         "Content Language":"Navajo"
+      }
+   },
+   {
+      "CL.ny":{
+         "Content Language":"Chichewa"
+      }
+   },
+   {
+      "CL.oc":{
+         "Content Language":"Occitan"
+      }
+   },
+   {
+      "CL.oj":{
+         "Content Language":"Ojibwe"
+      }
+   },
+   {
+      "CL.om":{
+         "Content Language":"Oromo"
+      }
+   },
+   {
+      "CL.or":{
+         "Content Language":"Oriya"
+      }
+   },
+   {
+      "CL.os":{
+         "Content Language":"Ossetian"
+      }
+   },
+   {
+      "CL.pa":{
+         "Content Language":"Punjabi"
+      }
+   },
+   {
+      "CL.pi":{
+         "Content Language":"Pali"
+      }
+   },
+   {
+      "CL.pl":{
+         "Content Language":"Polish"
+      }
+   },
+   {
+      "CL.ps":{
+         "Content Language":"Pashto"
+      }
+   },
+   {
+      "CL.pt":{
+         "Content Language":"Portuguese"
+      }
+   },
+   {
+      "CL.qu":{
+         "Content Language":"Quechua"
+      }
+   },
+   {
+      "CL.rm":{
+         "Content Language":"Romansh"
+      }
+   },
+   {
+      "CL.rn":{
+         "Content Language":"Kirundi"
+      }
+   },
+   {
+      "CL.ro":{
+         "Content Language":"Romanian"
+      }
+   },
+   {
+      "CL.ru":{
+         "Content Language":"Russian"
+      }
+   },
+   {
+      "CL.rw":{
+         "Content Language":"Kinyarwanda"
+      }
+   },
+   {
+      "CL.sa":{
+         "Content Language":"Sanskrit"
+      }
+   },
+   {
+      "CL.sc":{
+         "Content Language":"Sardinian"
+      }
+   },
+   {
+      "CL.sd":{
+         "Content Language":"Sindhi"
+      }
+   },
+   {
+      "CL.se":{
+         "Content Language":"Northern Sami"
+      }
+   },
+   {
+      "CL.sg":{
+         "Content Language":"Sango"
+      }
+   },
+   {
+      "CL.si":{
+         "Content Language":"Sinhala"
+      }
+   },
+   {
+      "CL.sk":{
+         "Content Language":"Slovak"
+      }
+   },
+   {
+      "CL.sl":{
+         "Content Language":"Slovene"
+      }
+   },
+   {
+      "CL.sm":{
+         "Content Language":"Samoan"
+      }
+   },
+   {
+      "CL.sn":{
+         "Content Language":"Shona"
+      }
+   },
+   {
+      "CL.so":{
+         "Content Language":"Somali"
+      }
+   },
+   {
+      "CL.sq":{
+         "Content Language":"Albanian"
+      }
+   },
+   {
+      "CL.sr":{
+         "Content Language":"Serbian"
+      }
+   },
+   {
+      "CL.ss":{
+         "Content Language":"Swati"
+      }
+   },
+   {
+      "CL.st":{
+         "Content Language":"Southern Sotho"
+      }
+   },
+   {
+      "CL.su":{
+         "Content Language":"Sundanese"
+      }
+   },
+   {
+      "CL.sv":{
+         "Content Language":"Swedish"
+      }
+   },
+   {
+      "CL.sw":{
+         "Content Language":"Swahili"
+      }
+   },
+   {
+      "CL.ta":{
+         "Content Language":"Tamil"
+      }
+   },
+   {
+      "CL.te":{
+         "Content Language":"Telugu"
+      }
+   },
+   {
+      "CL.tg":{
+         "Content Language":"Tajik"
+      }
+   },
+   {
+      "CL.th":{
+         "Content Language":"Thai"
+      }
+   },
+   {
+      "CL.ti":{
+         "Content Language":"Tigrinya"
+      }
+   },
+   {
+      "CL.tk":{
+         "Content Language":"Turkmen"
+      }
+   },
+   {
+      "CL.tl":{
+         "Content Language":"Tagalog"
+      }
+   },
+   {
+      "CL.tn":{
+         "Content Language":"Tswana"
+      }
+   },
+   {
+      "CL.to":{
+         "Content Language":"Tonga"
+      }
+   },
+   {
+      "CL.tr":{
+         "Content Language":"Turkish"
+      }
+   },
+   {
+      "CL.ts":{
+         "Content Language":"Tsonga"
+      }
+   },
+   {
+      "CL.tt":{
+         "Content Language":"Tatar"
+      }
+   },
+   {
+      "CL.tw":{
+         "Content Language":"Twi"
+      }
+   },
+   {
+      "CL.ty":{
+         "Content Language":"Tahitian"
+      }
+   },
+   {
+      "CL.ug":{
+         "Content Language":"Uyghur"
+      }
+   },
+   {
+      "CL.uk":{
+         "Content Language":"Ukrainian"
+      }
+   },
+   {
+      "CL.ur":{
+         "Content Language":"Urdu"
+      }
+   },
+   {
+      "CL.uz":{
+         "Content Language":"Uzbek"
+      }
+   },
+   {
+      "CL.ve":{
+         "Content Language":"Venda"
+      }
+   },
+   {
+      "CL.vi":{
+         "Content Language":"Vietnamese"
+      }
+   },
+   {
+      "CL.vo":{
+         "Content Language":"Volapuk"
+      }
+   },
+   {
+      "CL.wa":{
+         "Content Language":"Walloon"
+      }
+   },
+   {
+      "CL.wo":{
+         "Content Language":"Wolof"
+      }
+   },
+   {
+      "CL.xh":{
+         "Content Language":"Xhosa"
+      }
+   },
+   {
+      "CL.yi":{
+         "Content Language":"Yiddish"
+      }
+   },
+   {
+      "CL.yo":{
+         "Content Language":"Yoruba"
+      }
+   },
+   {
+      "CL.za":{
+         "Content Language":"Zhuang"
+      }
+   },
+   {
+      "CL.zh":{
+         "Content Language":"Chinese"
+      }
+   },
+   {
+      "CL.zu":{
+         "Content Language":"Zulu"
+      }
+   },
+   {
+      "CM":"Content Source"
+   },
+   {
+      "CM.1":{
+         "Content Source":"Professionally Produced"
+      }
+   },
+   {
+      "CM.2":{
+         "Content Source":"User Generated"
+      }
+   },
+   {
+      "CM.3":{
+         "Content Source":"Aggregated/Curated"
+      }
+   },
+   {
+      "CG":"Content Source Geo"
+   },
+   {
+      "CG.co":{
+         "Content Source Geo":"Continent"
+      }
+   },
+   {
+      "CG.co.1":{
+         "Content Source Geo":{
+            "Continent":"Asia"
+         }
+      }
+   },
+   {
+      "CG.co.2":{
+         "Content Source Geo":{
+            "Continent":"Africa"
+         }
+      }
+   },
+   {
+      "CG.co.3":{
+         "Content Source Geo":{
+            "Continent":"North America"
+         }
+      }
+   },
+   {
+      "CG.co.4":{
+         "Content Source Geo":{
+            "Continent":"South America"
+         }
+      }
+   },
+   {
+      "CG.co.5":{
+         "Content Source Geo":{
+            "Continent":"Antarctica"
+         }
+      }
+   },
+   {
+      "CG.co.6":{
+         "Content Source Geo":{
+            "Continent":"Europe"
+         }
+      }
+   },
+   {
+      "CG.co.7":{
+         "Content Source Geo":{
+            "Continent":"Antarctica"
+         }
+      }
+   },
+   {
+      "CG.cn":{
+         "Content Source Geo":"Country"
+      }
+   },
+   {
+      "CG.cn.AFG":{
+         "Content Source Geo":{
+            "Country":"Afghanistan"
+         }
+      }
+   },
+   {
+      "CG.cn.ALA":{
+         "Content Source Geo":{
+            "Country":"Aland Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.ALB":{
+         "Content Source Geo":{
+            "Country":"Albania"
+         }
+      }
+   },
+   {
+      "CG.cn.DZA":{
+         "Content Source Geo":{
+            "Country":"Algeria"
+         }
+      }
+   },
+   {
+      "CG.cn.ASM":{
+         "Content Source Geo":{
+            "Country":"American Samoa"
+         }
+      }
+   },
+   {
+      "CG.cn.AND":{
+         "Content Source Geo":{
+            "Country":"Andorra"
+         }
+      }
+   },
+   {
+      "CG.cn.AGO":{
+         "Content Source Geo":{
+            "Country":"Angola"
+         }
+      }
+   },
+   {
+      "CG.cn.AIA":{
+         "Content Source Geo":{
+            "Country":"Anguilla"
+         }
+      }
+   },
+   {
+      "CG.cn.ATA":{
+         "Content Source Geo":{
+            "Country":"Antarctica"
+         }
+      }
+   },
+   {
+      "CG.cn.ATG":{
+         "Content Source Geo":{
+            "Country":"Antigua and Barbuda"
+         }
+      }
+   },
+   {
+      "CG.cn.ARG":{
+         "Content Source Geo":{
+            "Country":"Argentina"
+         }
+      }
+   },
+   {
+      "CG.cn.ARM":{
+         "Content Source Geo":{
+            "Country":"Armenia"
+         }
+      }
+   },
+   {
+      "CG.cn.ABW":{
+         "Content Source Geo":{
+            "Country":"Aruba"
+         }
+      }
+   },
+   {
+      "CG.cn.AUS":{
+         "Content Source Geo":{
+            "Country":"Australia"
+         }
+      }
+   },
+   {
+      "CG.cn.AUT":{
+         "Content Source Geo":{
+            "Country":"Austria"
+         }
+      }
+   },
+   {
+      "CG.cn.AZE":{
+         "Content Source Geo":{
+            "Country":"Azerbaijan"
+         }
+      }
+   },
+   {
+      "CG.cn.BHR":{
+         "Content Source Geo":{
+            "Country":"Bahrain"
+         }
+      }
+   },
+   {
+      "CG.cn.BGD":{
+         "Content Source Geo":{
+            "Country":"Bangladesh"
+         }
+      }
+   },
+   {
+      "CG.cn.BRB":{
+         "Content Source Geo":{
+            "Country":"Barbados"
+         }
+      }
+   },
+   {
+      "CG.cn.BLR":{
+         "Content Source Geo":{
+            "Country":"Belarus"
+         }
+      }
+   },
+   {
+      "CG.cn.BEL":{
+         "Content Source Geo":{
+            "Country":"Belgium"
+         }
+      }
+   },
+   {
+      "CG.cn.BLZ":{
+         "Content Source Geo":{
+            "Country":"Belize"
+         }
+      }
+   },
+   {
+      "CG.cn.BEN":{
+         "Content Source Geo":{
+            "Country":"Benin"
+         }
+      }
+   },
+   {
+      "CG.cn.BMU":{
+         "Content Source Geo":{
+            "Country":"Bermuda"
+         }
+      }
+   },
+   {
+      "CG.cn.BTN":{
+         "Content Source Geo":{
+            "Country":"Bhutan"
+         }
+      }
+   },
+   {
+      "CG.cn.VEN":{
+         "Content Source Geo":{
+            "Country":"Bolivarian Republic of Venezuela"
+         }
+      }
+   },
+   {
+      "CG.cn.BOL":{
+         "Content Source Geo":{
+            "Country":"Bolivia"
+         }
+      }
+   },
+   {
+      "CG.cn.BES":{
+         "Content Source Geo":{
+            "Country":"Bonaire, Sint Eustatius and Saba"
+         }
+      }
+   },
+   {
+      "CG.cn.BIH":{
+         "Content Source Geo":{
+            "Country":"Bosnia and Herzegovina"
+         }
+      }
+   },
+   {
+      "CG.cn.BWA":{
+         "Content Source Geo":{
+            "Country":"Botswana"
+         }
+      }
+   },
+   {
+      "CG.cn.BVT":{
+         "Content Source Geo":{
+            "Country":"Bouvet Island"
+         }
+      }
+   },
+   {
+      "CG.cn.BRA":{
+         "Content Source Geo":{
+            "Country":"Brazil"
+         }
+      }
+   },
+   {
+      "CG.cn.VGB":{
+         "Content Source Geo":{
+            "Country":"British Virgin Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.BRN":{
+         "Content Source Geo":{
+            "Country":"Brunei Darussalam"
+         }
+      }
+   },
+   {
+      "CG.cn.BGR":{
+         "Content Source Geo":{
+            "Country":"Bulgaria"
+         }
+      }
+   },
+   {
+      "CG.cn.BFA":{
+         "Content Source Geo":{
+            "Country":"Burkina Faso"
+         }
+      }
+   },
+   {
+      "CG.cn.BDI":{
+         "Content Source Geo":{
+            "Country":"Burundi"
+         }
+      }
+   },
+   {
+      "CG.cn.CPV":{
+         "Content Source Geo":{
+            "Country":"Cabo Verde"
+         }
+      }
+   },
+   {
+      "CG.cn.KHM":{
+         "Content Source Geo":{
+            "Country":"Cambodia"
+         }
+      }
+   },
+   {
+      "CG.cn.CMR":{
+         "Content Source Geo":{
+            "Country":"Cameroon"
+         }
+      }
+   },
+   {
+      "CG.cn.CAN":{
+         "Content Source Geo":{
+            "Country":"Canada"
+         }
+      }
+   },
+   {
+      "CG.cn.TCD":{
+         "Content Source Geo":{
+            "Country":"Chad"
+         }
+      }
+   },
+   {
+      "CG.cn.CHL":{
+         "Content Source Geo":{
+            "Country":"Chile"
+         }
+      }
+   },
+   {
+      "CG.cn.CHN":{
+         "Content Source Geo":{
+            "Country":"China"
+         }
+      }
+   },
+   {
+      "CG.cn.CXR":{
+         "Content Source Geo":{
+            "Country":"Christmas Island"
+         }
+      }
+   },
+   {
+      "CG.cn.COL":{
+         "Content Source Geo":{
+            "Country":"Colombia"
+         }
+      }
+   },
+   {
+      "CG.cn.CRI":{
+         "Content Source Geo":{
+            "Country":"Costa Rica"
+         }
+      }
+   },
+   {
+      "CG.cn.CRV":{
+         "Content Source Geo":{
+            "Country":"Cote d'Ivoire"
+         }
+      }
+   },
+   {
+      "CG.cn.HRV":{
+         "Content Source Geo":{
+            "Country":"Croatia"
+         }
+      }
+   },
+   {
+      "CG.cn.CUB":{
+         "Content Source Geo":{
+            "Country":"Cuba"
+         }
+      }
+   },
+   {
+      "CG.cn.CUW":{
+         "Content Source Geo":{
+            "Country":"Curaçao"
+         }
+      }
+   },
+   {
+      "CG.cn.CYP":{
+         "Content Source Geo":{
+            "Country":"Cyprus"
+         }
+      }
+   },
+   {
+      "CG.cn.CZE":{
+         "Content Source Geo":{
+            "Country":"Czechia"
+         }
+      }
+   },
+   {
+      "CG.cn.DNK":{
+         "Content Source Geo":{
+            "Country":"Denmark"
+         }
+      }
+   },
+   {
+      "CG.cn.DJI":{
+         "Content Source Geo":{
+            "Country":"Djibouti"
+         }
+      }
+   },
+   {
+      "CG.cn.DMA":{
+         "Content Source Geo":{
+            "Country":"Dominica"
+         }
+      }
+   },
+   {
+      "CG.cn.ECU":{
+         "Content Source Geo":{
+            "Country":"Ecuador"
+         }
+      }
+   },
+   {
+      "CG.cn.EGY":{
+         "Content Source Geo":{
+            "Country":"Egypt"
+         }
+      }
+   },
+   {
+      "CG.cn.SLV":{
+         "Content Source Geo":{
+            "Country":"El Salvador"
+         }
+      }
+   },
+   {
+      "CG.cn.GNQ":{
+         "Content Source Geo":{
+            "Country":"Equatorial Guinea"
+         }
+      }
+   },
+   {
+      "CG.cn.ERI":{
+         "Content Source Geo":{
+            "Country":"Eritrea"
+         }
+      }
+   },
+   {
+      "CG.cn.EST":{
+         "Content Source Geo":{
+            "Country":"Estonia"
+         }
+      }
+   },
+   {
+      "CG.cn.ETH":{
+         "Content Source Geo":{
+            "Country":"Ethiopia"
+         }
+      }
+   },
+   {
+      "CG.cn.FSM":{
+         "Content Source Geo":{
+            "Country":"Federated States of Micronesia"
+         }
+      }
+   },
+   {
+      "CG.cn.FJI":{
+         "Content Source Geo":{
+            "Country":"Fiji"
+         }
+      }
+   },
+   {
+      "CG.cn.FIN":{
+         "Content Source Geo":{
+            "Country":"Finland"
+         }
+      }
+   },
+   {
+      "CG.cn.FRA":{
+         "Content Source Geo":{
+            "Country":"France"
+         }
+      }
+   },
+   {
+      "CG.cn.GUF":{
+         "Content Source Geo":{
+            "Country":"French Guiana"
+         }
+      }
+   },
+   {
+      "CG.cn.PYF":{
+         "Content Source Geo":{
+            "Country":"French Polynesia"
+         }
+      }
+   },
+   {
+      "CG.cn.GAB":{
+         "Content Source Geo":{
+            "Country":"Gabon"
+         }
+      }
+   },
+   {
+      "CG.cn.GEO":{
+         "Content Source Geo":{
+            "Country":"Georgia"
+         }
+      }
+   },
+   {
+      "CG.cn.DEU":{
+         "Content Source Geo":{
+            "Country":"Germany"
+         }
+      }
+   },
+   {
+      "CG.cn.GHA":{
+         "Content Source Geo":{
+            "Country":"Ghana"
+         }
+      }
+   },
+   {
+      "CG.cn.GIB":{
+         "Content Source Geo":{
+            "Country":"Gibraltar"
+         }
+      }
+   },
+   {
+      "CG.cn.GRC":{
+         "Content Source Geo":{
+            "Country":"Greece"
+         }
+      }
+   },
+   {
+      "CG.cn.GRL":{
+         "Content Source Geo":{
+            "Country":"Greenland"
+         }
+      }
+   },
+   {
+      "CG.cn.GRD":{
+         "Content Source Geo":{
+            "Country":"Grenada"
+         }
+      }
+   },
+   {
+      "CG.cn.GLP":{
+         "Content Source Geo":{
+            "Country":"Guadeloupe"
+         }
+      }
+   },
+   {
+      "CG.cn.GUM":{
+         "Content Source Geo":{
+            "Country":"Guam"
+         }
+      }
+   },
+   {
+      "CG.cn.GTM":{
+         "Content Source Geo":{
+            "Country":"Guatemala"
+         }
+      }
+   },
+   {
+      "CG.cn.GGY":{
+         "Content Source Geo":{
+            "Country":"Guernsey"
+         }
+      }
+   },
+   {
+      "CG.cn.GIN":{
+         "Content Source Geo":{
+            "Country":"Guinea"
+         }
+      }
+   },
+   {
+      "CG.cn.GNB":{
+         "Content Source Geo":{
+            "Country":"Guinea-Bissau"
+         }
+      }
+   },
+   {
+      "CG.cn.GUY":{
+         "Content Source Geo":{
+            "Country":"Guyana"
+         }
+      }
+   },
+   {
+      "CG.cn.HTI":{
+         "Content Source Geo":{
+            "Country":"Haiti"
+         }
+      }
+   },
+   {
+      "CG.cn.HMD":{
+         "Content Source Geo":{
+            "Country":"Heard Island and McDonald Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.HND":{
+         "Content Source Geo":{
+            "Country":"Honduras"
+         }
+      }
+   },
+   {
+      "CG.cn.HKG":{
+         "Content Source Geo":{
+            "Country":"Hong Kong"
+         }
+      }
+   },
+   {
+      "CG.cn.HUN":{
+         "Content Source Geo":{
+            "Country":"Hungary"
+         }
+      }
+   },
+   {
+      "CG.cn.ISL":{
+         "Content Source Geo":{
+            "Country":"Iceland"
+         }
+      }
+   },
+   {
+      "CG.cn.IND":{
+         "Content Source Geo":{
+            "Country":"India"
+         }
+      }
+   },
+   {
+      "CG.cn.IDN":{
+         "Content Source Geo":{
+            "Country":"Indonesia"
+         }
+      }
+   },
+   {
+      "CG.cn.IRQ":{
+         "Content Source Geo":{
+            "Country":"Iraq"
+         }
+      }
+   },
+   {
+      "CG.cn.IRL":{
+         "Content Source Geo":{
+            "Country":"Ireland"
+         }
+      }
+   },
+   {
+      "CG.cn.IRN":{
+         "Content Source Geo":{
+            "Country":"Islamic Republic of Iran"
+         }
+      }
+   },
+   {
+      "CG.cn.IMN":{
+         "Content Source Geo":{
+            "Country":"Isle of Man"
+         }
+      }
+   },
+   {
+      "CG.cn.ISR":{
+         "Content Source Geo":{
+            "Country":"Israel"
+         }
+      }
+   },
+   {
+      "CG.cn.ITA":{
+         "Content Source Geo":{
+            "Country":"Italy"
+         }
+      }
+   },
+   {
+      "CG.cn.JAM":{
+         "Content Source Geo":{
+            "Country":"Jamaica"
+         }
+      }
+   },
+   {
+      "CG.cn.JPN":{
+         "Content Source Geo":{
+            "Country":"Japan"
+         }
+      }
+   },
+   {
+      "CG.cn.JEY":{
+         "Content Source Geo":{
+            "Country":"Jersey"
+         }
+      }
+   },
+   {
+      "CG.cn.JOR":{
+         "Content Source Geo":{
+            "Country":"Jordan"
+         }
+      }
+   },
+   {
+      "CG.cn.KAZ":{
+         "Content Source Geo":{
+            "Country":"Kazakhstan"
+         }
+      }
+   },
+   {
+      "CG.cn.KEN":{
+         "Content Source Geo":{
+            "Country":"Kenya"
+         }
+      }
+   },
+   {
+      "CG.cn.KIR":{
+         "Content Source Geo":{
+            "Country":"Kiribati"
+         }
+      }
+   },
+   {
+      "CG.cn.KWT":{
+         "Content Source Geo":{
+            "Country":"Kuwait"
+         }
+      }
+   },
+   {
+      "CG.cn.KGZ":{
+         "Content Source Geo":{
+            "Country":"Kyrgyzstan"
+         }
+      }
+   },
+   {
+      "CG.cn.LVA":{
+         "Content Source Geo":{
+            "Country":"Latvia"
+         }
+      }
+   },
+   {
+      "CG.cn.LBN":{
+         "Content Source Geo":{
+            "Country":"Lebanon"
+         }
+      }
+   },
+   {
+      "CG.cn.LSO":{
+         "Content Source Geo":{
+            "Country":"Lesotho"
+         }
+      }
+   },
+   {
+      "CG.cn.LBR":{
+         "Content Source Geo":{
+            "Country":"Liberia"
+         }
+      }
+   },
+   {
+      "CG.cn.LBY":{
+         "Content Source Geo":{
+            "Country":"Libya"
+         }
+      }
+   },
+   {
+      "CG.cn.LIE":{
+         "Content Source Geo":{
+            "Country":"Liechtenstein"
+         }
+      }
+   },
+   {
+      "CG.cn.LTU":{
+         "Content Source Geo":{
+            "Country":"Lithuania"
+         }
+      }
+   },
+   {
+      "CG.cn.LUX":{
+         "Content Source Geo":{
+            "Country":"Luxembourg"
+         }
+      }
+   },
+   {
+      "CG.cn.MAC":{
+         "Content Source Geo":{
+            "Country":"Macao"
+         }
+      }
+   },
+   {
+      "CG.cn.MDG":{
+         "Content Source Geo":{
+            "Country":"Madagascar"
+         }
+      }
+   },
+   {
+      "CG.cn.MWI":{
+         "Content Source Geo":{
+            "Country":"Malawi"
+         }
+      }
+   },
+   {
+      "CG.cn.MYS":{
+         "Content Source Geo":{
+            "Country":"Malaysia"
+         }
+      }
+   },
+   {
+      "CG.cn.MDV":{
+         "Content Source Geo":{
+            "Country":"Maldives"
+         }
+      }
+   },
+   {
+      "CG.cn.MLI":{
+         "Content Source Geo":{
+            "Country":"Mali"
+         }
+      }
+   },
+   {
+      "CG.cn.MLT":{
+         "Content Source Geo":{
+            "Country":"Malta"
+         }
+      }
+   },
+   {
+      "CG.cn.MTQ":{
+         "Content Source Geo":{
+            "Country":"Martinique"
+         }
+      }
+   },
+   {
+      "CG.cn.MRT":{
+         "Content Source Geo":{
+            "Country":"Mauritania"
+         }
+      }
+   },
+   {
+      "CG.cn.MUS":{
+         "Content Source Geo":{
+            "Country":"Mauritius"
+         }
+      }
+   },
+   {
+      "CG.cn.MYT":{
+         "Content Source Geo":{
+            "Country":"Mayotte"
+         }
+      }
+   },
+   {
+      "CG.cn.MEX":{
+         "Content Source Geo":{
+            "Country":"Mexico"
+         }
+      }
+   },
+   {
+      "CG.cn.MCO":{
+         "Content Source Geo":{
+            "Country":"Monaco"
+         }
+      }
+   },
+   {
+      "CG.cn.MNG":{
+         "Content Source Geo":{
+            "Country":"Mongolia"
+         }
+      }
+   },
+   {
+      "CG.cn.MNE":{
+         "Content Source Geo":{
+            "Country":"Montenegro"
+         }
+      }
+   },
+   {
+      "CG.cn.MSR":{
+         "Content Source Geo":{
+            "Country":"Montserrat"
+         }
+      }
+   },
+   {
+      "CG.cn.MAR":{
+         "Content Source Geo":{
+            "Country":"Morocco"
+         }
+      }
+   },
+   {
+      "CG.cn.MOZ":{
+         "Content Source Geo":{
+            "Country":"Mozambique"
+         }
+      }
+   },
+   {
+      "CG.cn.MMR":{
+         "Content Source Geo":{
+            "Country":"Myanmar"
+         }
+      }
+   },
+   {
+      "CG.cn.NAM":{
+         "Content Source Geo":{
+            "Country":"Namibia"
+         }
+      }
+   },
+   {
+      "CG.cn.NRU":{
+         "Content Source Geo":{
+            "Country":"Nauru"
+         }
+      }
+   },
+   {
+      "CG.cn.NPL":{
+         "Content Source Geo":{
+            "Country":"Nepal"
+         }
+      }
+   },
+   {
+      "CG.cn.NCL":{
+         "Content Source Geo":{
+            "Country":"New Caledonia"
+         }
+      }
+   },
+   {
+      "CG.cn.NZL":{
+         "Content Source Geo":{
+            "Country":"New Zealand"
+         }
+      }
+   },
+   {
+      "CG.cn.NIC":{
+         "Content Source Geo":{
+            "Country":"Nicaragua"
+         }
+      }
+   },
+   {
+      "CG.cn.NGA":{
+         "Content Source Geo":{
+            "Country":"Nigeria"
+         }
+      }
+   },
+   {
+      "CG.cn.NIU":{
+         "Content Source Geo":{
+            "Country":"Niue"
+         }
+      }
+   },
+   {
+      "CG.cn.NFK":{
+         "Content Source Geo":{
+            "Country":"Norfolk Island"
+         }
+      }
+   },
+   {
+      "CG.cn.NOR":{
+         "Content Source Geo":{
+            "Country":"Norway"
+         }
+      }
+   },
+   {
+      "CG.cn.OMN":{
+         "Content Source Geo":{
+            "Country":"Oman"
+         }
+      }
+   },
+   {
+      "CG.cn.PAK":{
+         "Content Source Geo":{
+            "Country":"Pakistan"
+         }
+      }
+   },
+   {
+      "CG.cn.PLW":{
+         "Content Source Geo":{
+            "Country":"Palau"
+         }
+      }
+   },
+   {
+      "CG.cn.PAN":{
+         "Content Source Geo":{
+            "Country":"Panama"
+         }
+      }
+   },
+   {
+      "CG.cn.PNG":{
+         "Content Source Geo":{
+            "Country":"Papua New Guinea"
+         }
+      }
+   },
+   {
+      "CG.cn.PRY":{
+         "Content Source Geo":{
+            "Country":"Paraguay"
+         }
+      }
+   },
+   {
+      "CG.cn.PER":{
+         "Content Source Geo":{
+            "Country":"Peru"
+         }
+      }
+   },
+   {
+      "CG.cn.PCN":{
+         "Content Source Geo":{
+            "Country":"Pitcairn"
+         }
+      }
+   },
+   {
+      "CG.cn.POL":{
+         "Content Source Geo":{
+            "Country":"Poland"
+         }
+      }
+   },
+   {
+      "CG.cn.PRT":{
+         "Content Source Geo":{
+            "Country":"Portugal"
+         }
+      }
+   },
+   {
+      "CG.cn.PRI":{
+         "Content Source Geo":{
+            "Country":"Puerto Rico"
+         }
+      }
+   },
+   {
+      "CG.cn.QAT":{
+         "Content Source Geo":{
+            "Country":"Qatar"
+         }
+      }
+   },
+   {
+      "CG.cn.REU":{
+         "Content Source Geo":{
+            "Country":"Reunion"
+         }
+      }
+   },
+   {
+      "CG.cn.ROU":{
+         "Content Source Geo":{
+            "Country":"Romania"
+         }
+      }
+   },
+   {
+      "CG.cn.RWA":{
+         "Content Source Geo":{
+            "Country":"Rwanda"
+         }
+      }
+   },
+   {
+      "CG.cn.BLM":{
+         "Content Source Geo":{
+            "Country":"Saint Barthelemy"
+         }
+      }
+   },
+   {
+      "CG.cn.SHN":{
+         "Content Source Geo":{
+            "Country":"Saint Helena, Ascension and Tristan da Cunha"
+         }
+      }
+   },
+   {
+      "CG.cn.KNA":{
+         "Content Source Geo":{
+            "Country":"Saint Kitts and Nevis"
+         }
+      }
+   },
+   {
+      "CG.cn.LCA":{
+         "Content Source Geo":{
+            "Country":"Saint Lucia"
+         }
+      }
+   },
+   {
+      "CG.cn.MAF":{
+         "Content Source Geo":{
+            "Country":"Saint Martin"
+         }
+      }
+   },
+   {
+      "CG.cn.SPM":{
+         "Content Source Geo":{
+            "Country":"Saint Pierre and Miquelon"
+         }
+      }
+   },
+   {
+      "CG.cn.VCT":{
+         "Content Source Geo":{
+            "Country":"Saint Vincent and the Grenadines"
+         }
+      }
+   },
+   {
+      "CG.cn.WSM":{
+         "Content Source Geo":{
+            "Country":"Samoa"
+         }
+      }
+   },
+   {
+      "CG.cn.SMR":{
+         "Content Source Geo":{
+            "Country":"San Marino"
+         }
+      }
+   },
+   {
+      "CG.cn.STP":{
+         "Content Source Geo":{
+            "Country":"Sao Tome and Principe"
+         }
+      }
+   },
+   {
+      "CG.cn.SAU":{
+         "Content Source Geo":{
+            "Country":"Saudi Arabia"
+         }
+      }
+   },
+   {
+      "CG.cn.SEN":{
+         "Content Source Geo":{
+            "Country":"Senegal"
+         }
+      }
+   },
+   {
+      "CG.cn.SRB":{
+         "Content Source Geo":{
+            "Country":"Serbia"
+         }
+      }
+   },
+   {
+      "CG.cn.SYC":{
+         "Content Source Geo":{
+            "Country":"Seychelles"
+         }
+      }
+   },
+   {
+      "CG.cn.SLE":{
+         "Content Source Geo":{
+            "Country":"Sierra Leone"
+         }
+      }
+   },
+   {
+      "CG.cn.SGP":{
+         "Content Source Geo":{
+            "Country":"Singapore"
+         }
+      }
+   },
+   {
+      "CG.cn.SXM":{
+         "Content Source Geo":{
+            "Country":"Sint Maarten"
+         }
+      }
+   },
+   {
+      "CG.cn.SVK":{
+         "Content Source Geo":{
+            "Country":"Slovakia"
+         }
+      }
+   },
+   {
+      "CG.cn.SVN":{
+         "Content Source Geo":{
+            "Country":"Slovenia"
+         }
+      }
+   },
+   {
+      "CG.cn.SLB":{
+         "Content Source Geo":{
+            "Country":"Solomon Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.SOM":{
+         "Content Source Geo":{
+            "Country":"Somalia"
+         }
+      }
+   },
+   {
+      "CG.cn.ZAF":{
+         "Content Source Geo":{
+            "Country":"South Africa"
+         }
+      }
+   },
+   {
+      "CG.cn.SGS":{
+         "Content Source Geo":{
+            "Country":"South Georgia and the South Sandwich Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.SSD":{
+         "Content Source Geo":{
+            "Country":"South Sudan"
+         }
+      }
+   },
+   {
+      "CG.cn.ESP":{
+         "Content Source Geo":{
+            "Country":"Spain"
+         }
+      }
+   },
+   {
+      "CG.cn.LKA":{
+         "Content Source Geo":{
+            "Country":"Sri Lanka"
+         }
+      }
+   },
+   {
+      "CG.cn.PSE":{
+         "Content Source Geo":{
+            "Country":"State of Palestine"
+         }
+      }
+   },
+   {
+      "CG.cn.SUR":{
+         "Content Source Geo":{
+            "Country":"Suriname"
+         }
+      }
+   },
+   {
+      "CG.cn.SJM":{
+         "Content Source Geo":{
+            "Country":"Svalbard and Jan Mayen"
+         }
+      }
+   },
+   {
+      "CG.cn.SWZ":{
+         "Content Source Geo":{
+            "Country":"Swaziland"
+         }
+      }
+   },
+   {
+      "CG.cn.SWE":{
+         "Content Source Geo":{
+            "Country":"Sweden"
+         }
+      }
+   },
+   {
+      "CG.cn.CHE":{
+         "Content Source Geo":{
+            "Country":"Switzerland"
+         }
+      }
+   },
+   {
+      "CG.cn.SYR":{
+         "Content Source Geo":{
+            "Country":"Syrian Arab Republic"
+         }
+      }
+   },
+   {
+      "CG.cn.TWN":{
+         "Content Source Geo":{
+            "Country":"Taiwan (Province of China)"
+         }
+      }
+   },
+   {
+      "CG.cn.TJK":{
+         "Content Source Geo":{
+            "Country":"Tajikistan"
+         }
+      }
+   },
+   {
+      "CG.cn.THA":{
+         "Content Source Geo":{
+            "Country":"Thailand"
+         }
+      }
+   },
+   {
+      "CG.cn.BHS":{
+         "Content Source Geo":{
+            "Country":"The Bahamas"
+         }
+      }
+   },
+   {
+      "CG.cn.IOT":{
+         "Content Source Geo":{
+            "Country":"The British Indian Ocean Territory"
+         }
+      }
+   },
+   {
+      "CG.cn.CYM":{
+         "Content Source Geo":{
+            "Country":"The Cayman Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.CAF":{
+         "Content Source Geo":{
+            "Country":"The Central African Republic"
+         }
+      }
+   },
+   {
+      "CG.cn.CCK":{
+         "Content Source Geo":{
+            "Country":"The Cocos Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.COM":{
+         "Content Source Geo":{
+            "Country":"The Comoros"
+         }
+      }
+   },
+   {
+      "CG.cn.COG":{
+         "Content Source Geo":{
+            "Country":"The Congo"
+         }
+      }
+   },
+   {
+      "CG.cn.COK":{
+         "Content Source Geo":{
+            "Country":"The Cook Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.PRK":{
+         "Content Source Geo":{
+            "Country":"The Democratic People's Republic of Korea"
+         }
+      }
+   },
+   {
+      "CG.cn.COD":{
+         "Content Source Geo":{
+            "Country":"the Democratic Republic of the Congo "
+         }
+      }
+   },
+   {
+      "CG.cn.DOM":{
+         "Content Source Geo":{
+            "Country":"The Dominican Republic"
+         }
+      }
+   },
+   {
+      "CG.cn.FLK":{
+         "Content Source Geo":{
+            "Country":"The Falkland Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.FRO":{
+         "Content Source Geo":{
+            "Country":"The Faroe Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.MKD":{
+         "Content Source Geo":{
+            "Country":"The former Yugoslav Republic of Macedonia"
+         }
+      }
+   },
+   {
+      "CG.cn.ATF":{
+         "Content Source Geo":{
+            "Country":"The French Southern Territories"
+         }
+      }
+   },
+   {
+      "CG.cn.GMB":{
+         "Content Source Geo":{
+            "Country":"The Gambia"
+         }
+      }
+   },
+   {
+      "CG.cn.VAT":{
+         "Content Source Geo":{
+            "Country":"The Holy See"
+         }
+      }
+   },
+   {
+      "CG.cn.LAO":{
+         "Content Source Geo":{
+            "Country":"The Lao People's Democratic Republic"
+         }
+      }
+   },
+   {
+      "CG.cn.MHL":{
+         "Content Source Geo":{
+            "Country":"The Marshall Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.NLD":{
+         "Content Source Geo":{
+            "Country":"The Netherlands"
+         }
+      }
+   },
+   {
+      "CG.cn.NER":{
+         "Content Source Geo":{
+            "Country":"The Niger"
+         }
+      }
+   },
+   {
+      "CG.cn.MNP":{
+         "Content Source Geo":{
+            "Country":"The Northern Mariana Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.PHL":{
+         "Content Source Geo":{
+            "Country":"The Philippines"
+         }
+      }
+   },
+   {
+      "CG.cn.KOR":{
+         "Content Source Geo":{
+            "Country":"The Republic of Korea"
+         }
+      }
+   },
+   {
+      "CG.cn.MDA":{
+         "Content Source Geo":{
+            "Country":"The Republic of Moldova"
+         }
+      }
+   },
+   {
+      "CG.cn.RUS":{
+         "Content Source Geo":{
+            "Country":"The Russian Federation"
+         }
+      }
+   },
+   {
+      "CG.cn.SDN":{
+         "Content Source Geo":{
+            "Country":"The Sudan"
+         }
+      }
+   },
+   {
+      "CG.cn.TCA":{
+         "Content Source Geo":{
+            "Country":"The Turks and Caicos Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.ARE":{
+         "Content Source Geo":{
+            "Country":"The United Arab Emirates"
+         }
+      }
+   },
+   {
+      "CG.cn.GBR":{
+         "Content Source Geo":{
+            "Country":"The United Kingdom of Great Britain and Northern Ireland"
+         }
+      }
+   },
+   {
+      "CG.cn.UMI":{
+         "Content Source Geo":{
+            "Country":"The United States Minor Outlying Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.USA":{
+         "Content Source Geo":{
+            "Country":"The United States of America"
+         }
+      }
+   },
+   {
+      "CG.cn.TLS":{
+         "Content Source Geo":{
+            "Country":"Timor-Leste"
+         }
+      }
+   },
+   {
+      "CG.cn.TGO":{
+         "Content Source Geo":{
+            "Country":"Togo"
+         }
+      }
+   },
+   {
+      "CG.cn.TKL":{
+         "Content Source Geo":{
+            "Country":"Tokelau"
+         }
+      }
+   },
+   {
+      "CG.cn.TON":{
+         "Content Source Geo":{
+            "Country":"Tonga"
+         }
+      }
+   },
+   {
+      "CG.cn.TTO":{
+         "Content Source Geo":{
+            "Country":"Trinidad and Tobago"
+         }
+      }
+   },
+   {
+      "CG.cn.TUN":{
+         "Content Source Geo":{
+            "Country":"Tunisia"
+         }
+      }
+   },
+   {
+      "CG.cn.TUR":{
+         "Content Source Geo":{
+            "Country":"Turkey"
+         }
+      }
+   },
+   {
+      "CG.cn.TKM":{
+         "Content Source Geo":{
+            "Country":"Turkmenistan"
+         }
+      }
+   },
+   {
+      "CG.cn.TUV":{
+         "Content Source Geo":{
+            "Country":"Tuvalu"
+         }
+      }
+   },
+   {
+      "CG.cn.VIR":{
+         "Content Source Geo":{
+            "Country":"U.S. Virgin Islands"
+         }
+      }
+   },
+   {
+      "CG.cn.UGA":{
+         "Content Source Geo":{
+            "Country":"Uganda"
+         }
+      }
+   },
+   {
+      "CG.cn.UKR":{
+         "Content Source Geo":{
+            "Country":"Ukraine"
+         }
+      }
+   },
+   {
+      "CG.cn.TZA":{
+         "Content Source Geo":{
+            "Country":"United Republic of Tanzania"
+         }
+      }
+   },
+   {
+      "CG.cn.URY":{
+         "Content Source Geo":{
+            "Country":"Uruguay"
+         }
+      }
+   },
+   {
+      "CG.cn.UZB":{
+         "Content Source Geo":{
+            "Country":"Uzbekistan"
+         }
+      }
+   },
+   {
+      "CG.cn.VUT":{
+         "Content Source Geo":{
+            "Country":"Vanuatu"
+         }
+      }
+   },
+   {
+      "CG.cn.VNM":{
+         "Content Source Geo":{
+            "Country":"Vietnam"
+         }
+      }
+   },
+   {
+      "CG.cn.WLF":{
+         "Content Source Geo":{
+            "Country":"Wallis and Futuna"
+         }
+      }
+   },
+   {
+      "CG.cn.ESH":{
+         "Content Source Geo":{
+            "Country":"Western Sahara"
+         }
+      }
+   },
+   {
+      "CG.cn.YEM":{
+         "Content Source Geo":{
+            "Country":"Yemen"
+         }
+      }
+   },
+   {
+      "CG.cn.ZMB":{
+         "Content Source Geo":{
+            "Country":"Zambia"
+         }
+      }
+   },
+   {
+      "CG.cn.ZWE":{
+         "Content Source Geo":{
+            "Country":"Zimbabwe"
+         }
+      }
+   },
+   {
+      "CG.rg":{
+         "Content Source Geo":"Region/State"
+      }
+   },
+   {
+      "CG.me":{
+         "Content Source Geo":"Metro"
+      }
+   },
+   {
+      "CG.cy":{
+         "Content Source Geo":"City"
+      }
+   }
+]
