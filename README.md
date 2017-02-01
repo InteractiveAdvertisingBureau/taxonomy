@@ -1,7 +1,7 @@
 # taxonomy
 Machine-readable Taxonomies with ID mappings.
 
-1.	Content category IDs are numerical strings that follow a pattern  “  t1  .  t2  .  t3  .  t4  ” 
+Content category IDs are numerical strings that follow a pattern  “  t1  .  t2  .  t3  .  t4  ” 
 
 “  A  ” = indicates category is a top-level tier and contains within it all IDs that start with that value.
 
