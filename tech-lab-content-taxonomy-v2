@@ -99,7 +99,7 @@
       }
    },
    {
-      "1.1":{
+      "1.10":{
          "Automotive":"Auto Type"
       }
    },
@@ -833,7 +833,7 @@
       }
    },
    {
-      "5.1":{
+      "5.10":{
          "Education":"Private School"
       }
    },
@@ -933,7 +933,7 @@
       }
    },
    {
-      "6.1":{
+      "6.10":{
          "Events and Attractions":"Fashion Events"
       }
    },
@@ -988,7 +988,7 @@
       }
    },
    {
-      "6.2":{
+      "6.20":{
          "Events and Attractions":"Personal Celebrations & Life Events"
       }
    },
@@ -1273,7 +1273,7 @@
       }
    },
    {
-      "9.1":{
+      "9.10":{
          "Food & Drink":"Vegan Diets"
       }
    },
@@ -1414,7 +1414,7 @@
       }
    },
    {
-      "11.1":{
+      "11.10":{
          "Hobbies & Interests":"Magic and Illusion"
       }
    },
@@ -1623,7 +1623,7 @@
       }
    },
    {
-      "12.1":{
+      "12.10":{
          "Home & Garden":"Remodeling & Construction"
       }
    },
@@ -1942,7 +1942,7 @@
       }
    },
    {
-      "14.1":{
+      "14.10":{
          "Movies":"Romance Movies"
       }
    },
@@ -2005,7 +2005,7 @@
       }
    },
    {
-      "15.1":{
+      "15.10":{
          "Music and Audio":"Comedy Podcasts"
       }
    },
@@ -2060,7 +2060,7 @@
       }
    },
    {
-      "15.2":{
+      "15.20":{
          "Music and Audio":"Hip Hop Music"
       }
    },
@@ -2115,7 +2115,7 @@
       }
    },
    {
-      "15.3":{
+      "15.30":{
          "Music and Audio":"Religious Music"
       }
    },
@@ -2219,7 +2219,7 @@
       }
    },
    {
-      "15.4":{
+      "15.40":{
          "Music and Audio":"Technology Podcasts"
       }
    },
@@ -2577,7 +2577,7 @@
       }
    },
    {
-      "20.1":{
+      "20.10":{
          "Real Estate":"Retail Property"
       }
    },
@@ -2635,7 +2635,7 @@
       }
    },
    {
-      "21.1":{
+      "21.10":{
          "Religion & Spirituality":"Spirituality"
       }
    },
@@ -2723,12 +2723,12 @@
       }
    },
    {
+      "23":"Shopping"
+   },
+   {
       "23.1":{
          "Shopping":"Couponing"
       }
-   },
-   {
-      "23":"Shopping"
    },
    {
       "24":"Sports"
@@ -2739,7 +2739,7 @@
       }
    },
    {
-      "24.1":{
+      "24.10":{
          "Sports":"Boxing"
       }
    },
@@ -2857,7 +2857,7 @@
       }
    },
    {
-      "24.2":{
+      "24.20":{
          "Sports":"Fantasy Sports"
       }
    },
@@ -2919,7 +2919,7 @@
       }
    },
    {
-      "24.3":{
+      "24.30":{
          "Sports":"Martial Arts"
       }
    },
@@ -3002,7 +3002,7 @@
       }
    },
    {
-      "24.4":{
+      "24.40":{
          "Sports":"Softball"
       }
    },
@@ -3057,7 +3057,7 @@
       }
    },
    {
-      "24.5":{
+      "24.50":{
          "Sports":"Wrestling"
       }
    },
@@ -3132,7 +3132,7 @@
       }
    },
    {
-      "25.1":{
+      "25.10":{
          "Style & Fashion":"Women's Fashion"
       }
    },
@@ -3755,7 +3755,7 @@
       }
    },
    {
-      "27.1":{
+      "27.10":{
          "Television":"Soap Opera TV"
       }
    },
